@@ -1,6 +1,5 @@
 # ComeItRuns-Game
-
-Here's a well-structured and visually appealing README template for your GitHub project "Come It Runs":
+"Come It Runs : Game Project":
 
 # What is Come It Runs
 *An Experience Beyond Gaming: A Journey of Growth and Self-Discovery*
