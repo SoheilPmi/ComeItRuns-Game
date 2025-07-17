@@ -1,0 +1,3602 @@
+[
+  {
+    "id": 1,
+    "lesson": "Self Development",
+    "question": "What activity makes you lose track of time while doing it?",
+    "options": []
+  },
+  {
+    "id": 2,
+    "lesson": "Self Development",
+    "question": "If you had a full day with all the resources available, what would be the first thing you would do?",
+    "options": []
+  },
+  {
+    "id": 3,
+    "lesson": "Self Development",
+    "question": "What is the most important value in your life that you never compromise on?",
+    "options": []
+  },
+  {
+    "id": 4,
+    "lesson": "Self Development",
+    "question": "What change would you like to create in the world?",
+    "options": []
+  },
+  {
+    "id": 5,
+    "lesson": "Self Development",
+    "question": "What skill do you possess that others always praise?",
+    "options": []
+  },
+  {
+    "id": 6,
+    "lesson": "Self Development",
+    "question": "What motivates you to wake up with enthusiasm in the morning?",
+    "options": []
+  },
+  {
+    "id": 7,
+    "lesson": "Self Development",
+    "question": "What was the last book or movie that truly changed your perspective?",
+    "options": []
+  },
+  {
+    "id": 8,
+    "lesson": "Self Development",
+    "question": "When faced with a serious challenge, what is your usual response?",
+    "options": []
+  },
+  {
+    "id": 9,
+    "lesson": "Self Development",
+    "question": "What talent do you have that you haven't had the chance to fully explore yet?",
+    "options": []
+  },
+  {
+    "id": 10,
+    "lesson": "Self Development",
+    "question": "Who or what has been a source of inspiration in your life?",
+    "options": []
+  },
+  {
+    "id": 11,
+    "lesson": "Self Development",
+    "question": "What is your biggest fear in pursuing your goals, and how can you manage it?",
+    "options": []
+  },
+  {
+    "id": 12,
+    "lesson": "Self Development",
+    "question": "What habit has had the most positive impact on you?",
+    "options": []
+  },
+  {
+    "id": 13,
+    "lesson": "Self Development",
+    "question": "What important lesson did you learn from a failure that you will never forget?",
+    "options": []
+  },
+  {
+    "id": 14,
+    "lesson": "Self Development",
+    "question": "If you could give advice to your past self five years ago, what would you say?",
+    "options": []
+  },
+  {
+    "id": 15,
+    "lesson": "Self Development",
+    "question": "What skill would you like to learn by next year?",
+    "options": []
+  },
+  {
+    "id": 16,
+    "lesson": "Self Development",
+    "question": "What would make you give up on striving for your dreams?",
+    "options": []
+  },
+  {
+    "id": 17,
+    "lesson": "Self Development",
+    "question": "When you think about the \"main purpose of life,\" what is the first thing that comes to mind?",
+    "options": []
+  },
+  {
+    "id": 18,
+    "lesson": "Self Development",
+    "question": "What simple daily action gives you a sense of growth?",
+    "options": []
+  },
+  {
+    "id": 19,
+    "lesson": "Self Development",
+    "question": "What factors do you consider when making an important decision?",
+    "options": []
+  },
+  {
+    "id": 20,
+    "lesson": "Self Development",
+    "question": "What values in your life are non-negotiable for you?",
+    "options": []
+  },
+  {
+    "id": 21,
+    "lesson": "Self Development",
+    "question": "If you wanted to choose a project that benefits both the community and yourself, what project would you select?",
+    "options": []
+  },
+  {
+    "id": 22,
+    "lesson": "Self Development",
+    "question": "What words inspire you when you hear them?",
+    "options": []
+  },
+  {
+    "id": 23,
+    "lesson": "Self Development",
+    "question": "In difficult moments, what gives you strength and hope?",
+    "options": []
+  },
+  {
+    "id": 24,
+    "lesson": "Self Development",
+    "question": "Which \"soft\" skill (communication, leadership, creativity) do you want to strengthen the most?",
+    "options": []
+  },
+  {
+    "id": 25,
+    "lesson": "Self Development",
+    "question": "How do you define a balanced life, and what steps are you taking to achieve it?",
+    "options": []
+  },
+  {
+    "id": 26,
+    "lesson": "Self Development",
+    "question": "What activity do you engage in when you feel the most confident?",
+    "options": []
+  },
+  {
+    "id": 27,
+    "lesson": "Self Development",
+    "question": "What achievement would you like to have in five years?",
+    "options": []
+  },
+  {
+    "id": 28,
+    "lesson": "Self Development",
+    "question": "How do you use criticism for personal growth?",
+    "options": []
+  },
+  {
+    "id": 29,
+    "lesson": "Self Development",
+    "question": "What moral quality do you possess that you would like to strengthen further?",
+    "options": []
+  },
+  {
+    "id": 30,
+    "lesson": "Self Development",
+    "question": "If you could start your life over, what change would you make?",
+    "options": []
+  },
+  {
+    "id": 31,
+    "lesson": "Self Development",
+    "question": "What limiting belief do you hold that hinders your progress?",
+    "options": []
+  },
+  {
+    "id": 32,
+    "lesson": "Self Development",
+    "question": "What is one idea you would like to keep alive in your mind?",
+    "options": []
+  },
+  {
+    "id": 33,
+    "lesson": "Self Development",
+    "question": "Which aspect of your living environment has had the most positive impact on your growth?",
+    "options": []
+  },
+  {
+    "id": 34,
+    "lesson": "Self Development",
+    "question": "What have you done to help others, and how did it make you feel?",
+    "options": []
+  },
+  {
+    "id": 35,
+    "lesson": "Self Development",
+    "question": "Which digital skill (coding, design, digital marketing, etc.) is important for your career path?",
+    "options": []
+  },
+  {
+    "id": 36,
+    "lesson": "Self Development",
+    "question": "What daily habit could transform you into a better version of yourself?",
+    "options": []
+  },
+  {
+    "id": 37,
+    "lesson": "Self Development",
+    "question": "When you need motivation and inspiration, what do you do or read?",
+    "options": []
+  },
+  {
+    "id": 38,
+    "lesson": "Self Development",
+    "question": "How much time do you dedicate each day to learning and studying?",
+    "options": []
+  },
+  {
+    "id": 39,
+    "lesson": "Self Development",
+    "question": "What topic makes you eager to participate when others discuss it?",
+    "options": []
+  },
+  {
+    "id": 40,
+    "lesson": "Self Development",
+    "question": "What pushes you out of your comfort zone and fosters your growth?",
+    "options": []
+  },
+  {
+    "id": 41,
+    "lesson": "Self Development",
+    "question": "What volunteer activity or assistance would you like to experience?",
+    "options": []
+  },
+  {
+    "id": 42,
+    "lesson": "Self Development",
+    "question": "If you had no limitations, how would you help society or humanity?",
+    "options": []
+  },
+  {
+    "id": 43,
+    "lesson": "Self Development",
+    "question": "Which part of your life still feels aimless, and how do you want to give it meaning?",
+    "options": []
+  },
+  {
+    "id": 44,
+    "lesson": "Self Development",
+    "question": "Who or what makes you feel you are on the right path?",
+    "options": []
+  },
+  {
+    "id": 45,
+    "lesson": "Self Development",
+    "question": "What feedback has changed your perspective and led to your growth?",
+    "options": []
+  },
+  {
+    "id": 46,
+    "lesson": "Self Development",
+    "question": "When you are stressed, what strategies do you use to calm yourself?",
+    "options": []
+  },
+  {
+    "id": 47,
+    "lesson": "Self Development",
+    "question": "What ideal do you aspire to that you want to become part of your identity?",
+    "options": []
+  },
+  {
+    "id": 48,
+    "lesson": "Self Development",
+    "question": "What do you do each day to be better than you were yesterday?",
+    "options": []
+  },
+  {
+    "id": 49,
+    "lesson": "Self Development",
+    "question": "How do you define success, and what criteria does it have?",
+    "options": []
+  },
+  {
+    "id": 50,
+    "lesson": "Self Development",
+    "question": "What message would you write today to always remind yourself of your main purpose in life?",
+    "options": []
+  },
+  {
+    "id": 51,
+    "lesson": "Self Development",
+    "question": "When you close your eyes and a peaceful place appears in your mind, where is it?",
+    "options": []
+  },
+  {
+    "id": 52,
+    "lesson": "Self Development",
+    "question": "If you could tell the story of your life with a voice, what would that voice be like?",
+    "options": []
+  },
+  {
+    "id": 53,
+    "lesson": "Self Development",
+    "question": "What smell brings back a happy memory for you, and why?",
+    "options": []
+  },
+  {
+    "id": 54,
+    "lesson": "Self Development",
+    "question": "If a color could describe your inner feelings, what color would it be?",
+    "options": []
+  },
+  {
+    "id": 55,
+    "lesson": "Self Development",
+    "question": "When you look at your inner child, what is it doing?",
+    "options": []
+  },
+  {
+    "id": 56,
+    "lesson": "Self Development",
+    "question": "If your life were an instrumental song, what kind of feeling would its melody have?",
+    "options": []
+  },
+  {
+    "id": 57,
+    "lesson": "Self Development",
+    "question": "In the moment when you feel the most joy from doing something, how does your body feel?",
+    "options": []
+  },
+  {
+    "id": 58,
+    "lesson": "Self Development",
+    "question": "If you could befriend an animal, which one would you choose?",
+    "options": []
+  },
+  {
+    "id": 59,
+    "lesson": "Self Development",
+    "question": "What image in your mind represents renewal and blossoming?",
+    "options": []
+  },
+  {
+    "id": 60,
+    "lesson": "Self Development",
+    "question": "When you see a solitary tree, what thoughts about courage come to your mind?",
+    "options": []
+  },
+  {
+    "id": 61,
+    "lesson": "Self Development",
+    "question": "If you could create a statue of yourself, what pose and appearance would it have?",
+    "options": []
+  },
+  {
+    "id": 62,
+    "lesson": "Self Development",
+    "question": "On a starry night, which star would you want to follow?",
+    "options": []
+  },
+  {
+    "id": 63,
+    "lesson": "Self Development",
+    "question": "When a wave reaches the shore, what feeling comes alive inside you?",
+    "options": []
+  },
+  {
+    "id": 64,
+    "lesson": "Self Development",
+    "question": "If your laughter had a message, what would it convey?",
+    "options": []
+  },
+  {
+    "id": 65,
+    "lesson": "Self Development",
+    "question": "What memory pushes you forward in the darkness of night?",
+    "options": []
+  },
+  {
+    "id": 66,
+    "lesson": "Self Development",
+    "question": "If your life were a farm, what crop would you grow?",
+    "options": []
+  },
+  {
+    "id": 67,
+    "lesson": "Self Development",
+    "question": "What word warms your heart when someone says it to you?",
+    "options": []
+  },
+  {
+    "id": 68,
+    "lesson": "Self Development",
+    "question": "When you light a candle, what wish forms in your mind?",
+    "options": []
+  },
+  {
+    "id": 69,
+    "lesson": "Self Development",
+    "question": "If you could create a scene from a movie about yourself, what would the climax be?",
+    "options": []
+  },
+  {
+    "id": 70,
+    "lesson": "Self Development",
+    "question": "When you hear the sound of rain, what decision sparks inside you?",
+    "options": []
+  },
+  {
+    "id": 71,
+    "lesson": "Self Development",
+    "question": "If you could create a flower, what shape and color would it have?",
+    "options": []
+  },
+  {
+    "id": 72,
+    "lesson": "Self Development",
+    "question": "What role does soil play for you: a seed or a stone?",
+    "options": []
+  },
+  {
+    "id": 73,
+    "lesson": "Self Development",
+    "question": "When you smell delicious food, what motivation does it create for you?",
+    "options": []
+  },
+  {
+    "id": 74,
+    "lesson": "Self Development",
+    "question": "If you could add a word to the world's language, what would it mean?",
+    "options": []
+  },
+  {
+    "id": 75,
+    "lesson": "Self Development",
+    "question": "What vision of your future brings you peace?",
+    "options": []
+  },
+  {
+    "id": 76,
+    "lesson": "Self Development",
+    "question": "When you mentally climb a tall peak, what beauty are you searching for?",
+    "options": []
+  },
+  {
+    "id": 77,
+    "lesson": "Self Development",
+    "question": "If you could paint a picture of your day, what details would you include?",
+    "options": []
+  },
+  {
+    "id": 78,
+    "lesson": "Self Development",
+    "question": "When you see the light of the sunrise, what wish sprouts in your heart?",
+    "options": []
+  },
+  {
+    "id": 79,
+    "lesson": "Self Development",
+    "question": "What sound is echoing inside you that you haven't had the chance to hear yet?",
+    "options": []
+  },
+  {
+    "id": 80,
+    "lesson": "Self Development",
+    "question": "When you ask a free bird a question, what answer do you expect?",
+    "options": []
+  },
+  {
+    "id": 81,
+    "lesson": "Self Development",
+    "question": "If you wrote a book about your life, what would its title be?",
+    "options": []
+  },
+  {
+    "id": 82,
+    "lesson": "Self Development",
+    "question": "What does the pattern on a butterfly's wing remind you of in terms of change?",
+    "options": []
+  },
+  {
+    "id": 83,
+    "lesson": "Self Development",
+    "question": "When you see a broken pot, what opportunity for creation appears in your mind?",
+    "options": []
+  },
+  {
+    "id": 84,
+    "lesson": "Self Development",
+    "question": "If your life were a ball of yarn, what pattern and texture would it have?",
+    "options": []
+  },
+  {
+    "id": 85,
+    "lesson": "Self Development",
+    "question": "Which memory lights up your mind like a sudden spark?",
+    "options": []
+  },
+  {
+    "id": 86,
+    "lesson": "Self Development",
+    "question": "When you listen to the sound of fire in the fireplace, what thought embraces you?",
+    "options": []
+  },
+  {
+    "id": 87,
+    "lesson": "Self Development",
+    "question": "What image of the future fills you with hope?",
+    "options": []
+  },
+  {
+    "id": 88,
+    "lesson": "Self Development",
+    "question": "If you could open a magical gate, what would you see behind it?",
+    "options": []
+  },
+  {
+    "id": 89,
+    "lesson": "Self Development",
+    "question": "What flower word symbolizes growth and blossoming for you?",
+    "options": []
+  },
+  {
+    "id": 90,
+    "lesson": "Self Development",
+    "question": "When a gentle breeze touches your face, what message do you receive from it?",
+    "options": []
+  },
+  {
+    "id": 91,
+    "lesson": "Self Development",
+    "question": "If you painted a picture of your dreams, what colors would fill the canvas?",
+    "options": []
+  },
+  {
+    "id": 92,
+    "lesson": "Self Development",
+    "question": "What image of yourself do you see in all your most successful moments?",
+    "options": []
+  },
+  {
+    "id": 93,
+    "lesson": "Self Development",
+    "question": "When you listen to the sound of the waves of your thoughts, what melody do you hear?",
+    "options": []
+  },
+  {
+    "id": 94,
+    "lesson": "Self Development",
+    "question": "If you were a diver, what treasure would you be searching for in the depths of the sea?",
+    "options": []
+  },
+  {
+    "id": 95,
+    "lesson": "Self Development",
+    "question": "What scent connects you to a valuable memory?",
+    "options": []
+  },
+  {
+    "id": 96,
+    "lesson": "Self Development",
+    "question": "When you light a lantern, what path becomes clear to you?",
+    "options": []
+  },
+  {
+    "id": 97,
+    "lesson": "Self Development",
+    "question": "If you could choose a precious stone, what qualities would it have?",
+    "options": []
+  },
+  {
+    "id": 98,
+    "lesson": "Self Development",
+    "question": "What scene from a flowing river reminds you of the flow of your life?",
+    "options": []
+  },
+  {
+    "id": 99,
+    "lesson": "Self Development",
+    "question": "When you raise a flag of your wishes, what message is written on it?",
+    "options": []
+  },
+  {
+    "id": 100,
+    "lesson": "Self Development",
+    "question": "If you could receive a text from your future self, what sentence would you expect?",
+    "options": []
+  },
+  {
+    "id": 101,
+    "lesson": "Self Development",
+    "question": "When the first raindrop lands on your hand, what feeling comes alive inside you?",
+    "options": []
+  },
+  {
+    "id": 102,
+    "lesson": "Self Development",
+    "question": "If your life were a garden, what plants would you want to grow in it?",
+    "options": []
+  },
+  {
+    "id": 103,
+    "lesson": "Self Development",
+    "question": "What sound from nature (wind, birds, water) brings you peace?",
+    "options": []
+  },
+  {
+    "id": 104,
+    "lesson": "Self Development",
+    "question": "In your imagination, when you stand on a hill, what view unfolds before your eyes?",
+    "options": []
+  },
+  {
+    "id": 105,
+    "lesson": "Self Development",
+    "question": "If you had a notebook on your desk, what would be the first sentence you write?",
+    "options": []
+  },
+  {
+    "id": 106,
+    "lesson": "Self Development",
+    "question": "What childhood memory still shines like a spark in your heart?",
+    "options": []
+  },
+  {
+    "id": 107,
+    "lesson": "Self Development",
+    "question": "When you see a shooting star, what wish becomes vivid in your heart?",
+    "options": []
+  },
+  {
+    "id": 108,
+    "lesson": "Self Development",
+    "question": "If you could enhance one of your five senses, which one would you choose?",
+    "options": []
+  },
+  {
+    "id": 109,
+    "lesson": "Self Development",
+    "question": "What color reminds you of passion and enthusiasm?",
+    "options": []
+  },
+  {
+    "id": 110,
+    "lesson": "Self Development",
+    "question": "When a bird flies freely in the sky, what message does it have for you?",
+    "options": []
+  },
+  {
+    "id": 111,
+    "lesson": "Self Development",
+    "question": "If your life were a novel, what would its first sentence be?",
+    "options": []
+  },
+  {
+    "id": 112,
+    "lesson": "Self Development",
+    "question": "What taste lingers in your mouth when you imagine your big dream?",
+    "options": []
+  },
+  {
+    "id": 113,
+    "lesson": "Self Development",
+    "question": "When the moonlight shines on your face, what secrets awaken in your heart?",
+    "options": []
+  },
+  {
+    "id": 114,
+    "lesson": "Self Development",
+    "question": "If you could choose a song for your moments of solitude, what melody would it be?",
+    "options": []
+  },
+  {
+    "id": 115,
+    "lesson": "Self Development",
+    "question": "What sweet event in your life still brings you joy when you remember it?",
+    "options": []
+  },
+  {
+    "id": 116,
+    "lesson": "Self Development",
+    "question": "When you paint a picture of your future, what colors do you use?",
+    "options": []
+  },
+  {
+    "id": 117,
+    "lesson": "Self Development",
+    "question": "What image of you is etched in the mind of the person who trusts you the most?",
+    "options": []
+  },
+  {
+    "id": 118,
+    "lesson": "Self Development",
+    "question": "When you light a lantern in the dark, what path are you searching for?",
+    "options": []
+  },
+  {
+    "id": 119,
+    "lesson": "Self Development",
+    "question": "If your life were a puzzle, what would be the key to solving it?",
+    "options": []
+  },
+  {
+    "id": 120,
+    "lesson": "Self Development",
+    "question": "What touch or feeling from playing with nature (stone, wood, water) is memorable for you?",
+    "options": []
+  },
+  {
+    "id": 121,
+    "lesson": "Self Development",
+    "question": "When you see a dreamy sunrise, how do you feel?",
+    "options": []
+  },
+  {
+    "id": 122,
+    "lesson": "Self Development",
+    "question": "What scent (flower, rain-soaked earth, burnt wood) takes you to your best memory?",
+    "options": []
+  },
+  {
+    "id": 123,
+    "lesson": "Self Development",
+    "question": "If a shadow were beside you, what would it reveal about you?",
+    "options": []
+  },
+  {
+    "id": 124,
+    "lesson": "Self Development",
+    "question": "What part of your body lights up when you feel excited?",
+    "options": []
+  },
+  {
+    "id": 125,
+    "lesson": "Self Development",
+    "question": "When a tear of joy rolls down your cheek, what moment was it?",
+    "options": []
+  },
+  {
+    "id": 126,
+    "lesson": "Self Development",
+    "question": "If you could choose a gem for your life, what quality would it have?",
+    "options": []
+  },
+  {
+    "id": 127,
+    "lesson": "Self Development",
+    "question": "What reminds you of the heroes in stories?",
+    "options": []
+  },
+  {
+    "id": 128,
+    "lesson": "Self Development",
+    "question": "When you imagine a wave from the sea, how much of its power do you feel within you?",
+    "options": []
+  },
+  {
+    "id": 129,
+    "lesson": "Self Development",
+    "question": "If you could choose a supernatural ability, which one would you pick?",
+    "options": []
+  },
+  {
+    "id": 130,
+    "lesson": "Self Development",
+    "question": "What simple object (a wooden sandal, a cup of tea) symbolizes peace for you?",
+    "options": []
+  },
+  {
+    "id": 131,
+    "lesson": "Self Development",
+    "question": "When you blow on a dandelion, what wish do you send into the air?",
+    "options": []
+  },
+  {
+    "id": 132,
+    "lesson": "Self Development",
+    "question": "If you had a library in your mind, what title would you always keep on its shelf?",
+    "options": []
+  },
+  {
+    "id": 133,
+    "lesson": "Self Development",
+    "question": "What part of your body heats up when you feel the excitement of learning?",
+    "options": []
+  },
+  {
+    "id": 134,
+    "lesson": "Self Development",
+    "question": "When you step onto a forest path, what sound captures your attention the most?",
+    "options": []
+  },
+  {
+    "id": 135,
+    "lesson": "Self Development",
+    "question": "If your life were a train, what would be the name of its next station?",
+    "options": []
+  },
+  {
+    "id": 136,
+    "lesson": "Self Development",
+    "question": "What reminds you of \"playing with your inner child\"?",
+    "options": []
+  },
+  {
+    "id": 137,
+    "lesson": "Self Development",
+    "question": "If you could have a role in the story of the world, what role would you choose?",
+    "options": []
+  },
+  {
+    "id": 138,
+    "lesson": "Self Development",
+    "question": "What details in a simple moment amaze you?",
+    "options": []
+  },
+  {
+    "id": 139,
+    "lesson": "Self Development",
+    "question": "When you blow out a candle flame, what message do you write to yourself?",
+    "options": []
+  },
+  {
+    "id": 140,
+    "lesson": "Self Development",
+    "question": "If you had a magical tool, what would you do with it?",
+    "options": []
+  },
+  {
+    "id": 141,
+    "lesson": "Self Development",
+    "question": "What melody embraces you when your heart finds peace?",
+    "options": []
+  },
+  {
+    "id": 142,
+    "lesson": "Self Development",
+    "question": "If the ground shook beneath your feet, what would be your support?",
+    "options": []
+  },
+  {
+    "id": 143,
+    "lesson": "Self Development",
+    "question": "What image of your future brings you joy?",
+    "options": []
+  },
+  {
+    "id": 144,
+    "lesson": "Self Development",
+    "question": "When you hold a golden key, what lock do you want to open?",
+    "options": []
+  },
+  {
+    "id": 145,
+    "lesson": "Self Development",
+    "question": "If a golden word could make your day, what would that word be?",
+    "options": []
+  },
+  {
+    "id": 146,
+    "lesson": "Self Development",
+    "question": "What color invites you to \"courage\"?",
+    "options": []
+  },
+  {
+    "id": 147,
+    "lesson": "Self Development",
+    "question": "When you turn an hourglass over, what important decision do you reconsider?",
+    "options": []
+  },
+  {
+    "id": 148,
+    "lesson": "Self Development",
+    "question": "If you could plant a flower, what meaning would its scent have?",
+    "options": []
+  },
+  {
+    "id": 149,
+    "lesson": "Self Development",
+    "question": "What part of you feels connected to the earth and sky?",
+    "options": []
+  },
+  {
+    "id": 150,
+    "lesson": "Self Development",
+    "question": "When you raise a flag of hope, what message is written on it?",
+    "options": []
+  },
+  {
+    "id": 151,
+    "lesson": "Self Development",
+    "question": "If you could taste a special flavor today, what would you choose?",
+    "options": []
+  },
+  {
+    "id": 152,
+    "lesson": "Self Development",
+    "question": "When raindrops settle on the window, what’s the first thing that comes to your mind?",
+    "options": []
+  },
+  {
+    "id": 153,
+    "lesson": "Self Development",
+    "question": "If you had to place a picture book on your desk today, what image would be on the cover?",
+    "options": []
+  },
+  {
+    "id": 154,
+    "lesson": "Self Development",
+    "question": "When a cool breeze whispers in your ear during summer, what does it say?",
+    "options": []
+  },
+  {
+    "id": 155,
+    "lesson": "Self Development",
+    "question": "If you could choose a color for your shoes, what color would it be?",
+    "options": []
+  },
+  {
+    "id": 156,
+    "lesson": "Self Development",
+    "question": "When you hear the chirping of birds, what word comes to your mind?",
+    "options": []
+  },
+  {
+    "id": 157,
+    "lesson": "Self Development",
+    "question": "If you could pick a fresh flower, what scent would you describe?",
+    "options": []
+  },
+  {
+    "id": 158,
+    "lesson": "Self Development",
+    "question": "When you gaze at the candlelight, what feeling forms inside you?",
+    "options": []
+  },
+  {
+    "id": 159,
+    "lesson": "Self Development",
+    "question": "If you printed a simple symbol on your t-shirt today, what would that symbol be?",
+    "options": []
+  },
+  {
+    "id": 160,
+    "lesson": "Self Development",
+    "question": "When you open the window and the fresh air comes in, what word forms in your mind?",
+    "options": []
+  },
+  {
+    "id": 161,
+    "lesson": "Self Development",
+    "question": "If a talking bird sat beside you, what would be your first question to it?",
+    "options": []
+  },
+  {
+    "id": 162,
+    "lesson": "Self Development",
+    "question": "When you dip your feet in the river, what flows within you?",
+    "options": []
+  },
+  {
+    "id": 163,
+    "lesson": "Self Development",
+    "question": "If you could talk to a tree today, what would you ask it?",
+    "options": []
+  },
+  {
+    "id": 164,
+    "lesson": "Self Development",
+    "question": "When you see a fallen autumn leaf on your hand, what memory comes alive?",
+    "options": []
+  },
+  {
+    "id": 165,
+    "lesson": "Self Development",
+    "question": "If you were to design a simple symbol for courage, what shape would it have?",
+    "options": []
+  },
+  {
+    "id": 166,
+    "lesson": "Self Development",
+    "question": "When you hear the sound of a siren or alarm, what color appears before your eyes?",
+    "options": []
+  },
+  {
+    "id": 167,
+    "lesson": "Self Development",
+    "question": "If you could see a short dream today, what features would its environment have?",
+    "options": []
+  },
+  {
+    "id": 168,
+    "lesson": "Self Development",
+    "question": "When a beam of light passes through the branches, what word is whispered?",
+    "options": []
+  },
+  {
+    "id": 169,
+    "lesson": "Self Development",
+    "question": "If you could befriend a forest animal today, which one would you choose?",
+    "options": []
+  },
+  {
+    "id": 170,
+    "lesson": "Self Development",
+    "question": "When you see a simple balance scale, what do you feel is light and what feels heavy?",
+    "options": []
+  },
+  {
+    "id": 171,
+    "lesson": "Self Development",
+    "question": "If a piece of instrumental music played in your mind, what tempo would it have?",
+    "options": []
+  },
+  {
+    "id": 172,
+    "lesson": "Self Development",
+    "question": "When a small light shines right in front of you, what path do you see?",
+    "options": []
+  },
+  {
+    "id": 173,
+    "lesson": "Self Development",
+    "question": "If you felt a warm touch on your shoulder today, what would that touch mean?",
+    "options": []
+  },
+  {
+    "id": 174,
+    "lesson": "Self Development",
+    "question": "When you hold a grain of sand between your fingers, how much of the earth's vastness do you feel?",
+    "options": []
+  },
+  {
+    "id": 175,
+    "lesson": "Self Development",
+    "question": "If a sail were the helm of your journey, what name would you inscribe on it?",
+    "options": []
+  },
+  {
+    "id": 176,
+    "lesson": "Self Development",
+    "question": "When you hear the sound of a bicycle bell, what memory does it evoke?",
+    "options": []
+  },
+  {
+    "id": 177,
+    "lesson": "Self Development",
+    "question": "If you had to write one word to summarize your day, what would that word be?",
+    "options": []
+  },
+  {
+    "id": 178,
+    "lesson": "Self Development",
+    "question": "When a small meteorite hits the ground, what force ignites within you?",
+    "options": []
+  },
+  {
+    "id": 179,
+    "lesson": "Self Development",
+    "question": "If you could hang an imaginary picture frame of your future today, what image would it hold?",
+    "options": []
+  },
+  {
+    "id": 180,
+    "lesson": "Self Development",
+    "question": "When you smell a violet flower, what color does it paint your thoughts?",
+    "options": []
+  },
+  {
+    "id": 181,
+    "lesson": "Self Development",
+    "question": "If you drew a simple mind map of your dreams, where would the first point be?",
+    "options": []
+  },
+  {
+    "id": 182,
+    "lesson": "Self Development",
+    "question": "When a ray of light shines through a crack in the wall, what lights up inside you?",
+    "options": []
+  },
+  {
+    "id": 183,
+    "lesson": "Self Development",
+    "question": "If you had a small decision in your hands today, what impact would it have?",
+    "options": []
+  },
+  {
+    "id": 184,
+    "lesson": "Self Development",
+    "question": "When you hear distant laughter, what image spins in your mind?",
+    "options": []
+  },
+  {
+    "id": 185,
+    "lesson": "Self Development",
+    "question": "If a golden gate opened before you, what world would you see behind it?",
+    "options": []
+  },
+  {
+    "id": 186,
+    "lesson": "Self Development",
+    "question": "When you hold a green leaf in your hand, what feeling of life envelops you?",
+    "options": []
+  },
+  {
+    "id": 187,
+    "lesson": "Self Development",
+    "question": "If you could change a small event today, what would you improve?",
+    "options": []
+  },
+  {
+    "id": 188,
+    "lesson": "Self Development",
+    "question": "When your spirit feels like a wave, what colors does it rise and fall with?",
+    "options": []
+  },
+  {
+    "id": 189,
+    "lesson": "Self Development",
+    "question": "If a small fish swam in the aquarium of your mind, which corner would it go to?",
+    "options": []
+  },
+  {
+    "id": 190,
+    "lesson": "Self Development",
+    "question": "When a small spark ignites in your fire, what idea does it illuminate in your mind?",
+    "options": []
+  },
+  {
+    "id": 191,
+    "lesson": "Self Development",
+    "question": "If you held a puzzle piece in your hands, what image of yourself would it complete?",
+    "options": []
+  },
+  {
+    "id": 192,
+    "lesson": "Self Development",
+    "question": "When a colorful ribbon flutters in the wind, what word do you discover for humanity?",
+    "options": []
+  },
+  {
+    "id": 193,
+    "lesson": "Self Development",
+    "question": "If you read a short verse or positive message today, what words would it contain?",
+    "options": []
+  },
+  {
+    "id": 194,
+    "lesson": "Self Development",
+    "question": "When you feel a small whirlpool of water under your hand, what movement begins within you?",
+    "options": []
+  },
+  {
+    "id": 195,
+    "lesson": "Self Development",
+    "question": "If you could create a virtual star named after you, what features would it have?",
+    "options": []
+  },
+  {
+    "id": 196,
+    "lesson": "Self Development",
+    "question": "When the sound of your footsteps echoes in a tunnel, what destination lies at the end?",
+    "options": []
+  },
+  {
+    "id": 197,
+    "lesson": "Self Development",
+    "question": "If a lighthouse within you were to shine, which part of your path would it illuminate?",
+    "options": []
+  },
+  {
+    "id": 198,
+    "lesson": "Self Development",
+    "question": "When you place a drop of clear gel on glass, what image forms before your eyes?",
+    "options": []
+  },
+  {
+    "id": 199,
+    "lesson": "Self Development",
+    "question": "If you listened to a short song today, what rhythm would resonate with your heart?",
+    "options": []
+  },
+  {
+    "id": 200,
+    "lesson": "Self Development",
+    "question": "When a leaf of promise dances in the wind, what vow repeats within you?",
+    "options": []
+  },
+  {
+    "id": 201,
+    "lesson": "Self Development",
+    "question": "When you see the first light of the sun on a new day, how do you feel?",
+    "options": []
+  },
+  {
+    "id": 202,
+    "lesson": "Self Development",
+    "question": "If the smell of freshly brewed coffee is in front of you, what memory comes alive?",
+    "options": []
+  },
+  {
+    "id": 203,
+    "lesson": "Self Development",
+    "question": "When soft music plays, what do your eyes search for?",
+    "options": []
+  },
+  {
+    "id": 204,
+    "lesson": "Self Development",
+    "question": "If a word were to be inscribed on the clothing you’re wearing today, what would that word be?",
+    "options": []
+  },
+  {
+    "id": 205,
+    "lesson": "Self Development",
+    "question": "When you receive a rose, how does its color change your feelings?",
+    "options": []
+  },
+  {
+    "id": 206,
+    "lesson": "Self Development",
+    "question": "When you hear the laughter of an old friend, what image appears in your mind?",
+    "options": []
+  },
+  {
+    "id": 207,
+    "lesson": "Self Development",
+    "question": "When you see a short motivational text, what’s the first word that comes to your mind?",
+    "options": []
+  },
+  {
+    "id": 208,
+    "lesson": "Self Development",
+    "question": "If a small beam of light shines through the window, what catches your attention in the room?",
+    "options": []
+  },
+  {
+    "id": 209,
+    "lesson": "Self Development",
+    "question": "When you dip your fingertips into the rain-soaked grass, what feeling do you experience?",
+    "options": []
+  },
+  {
+    "id": 210,
+    "lesson": "Self Development",
+    "question": "What color would you choose for your t-shirt or main outfit today?",
+    "options": []
+  },
+  {
+    "id": 211,
+    "lesson": "Self Development",
+    "question": "When you hear footsteps on fresh snow, what memory do you recall?",
+    "options": []
+  },
+  {
+    "id": 212,
+    "lesson": "Self Development",
+    "question": "If you had to choose a rhythm for your day, what speed would it have?",
+    "options": []
+  },
+  {
+    "id": 213,
+    "lesson": "Self Development",
+    "question": "When you hold a hot cup of tea, what image of tranquility forms in your mind?",
+    "options": []
+  },
+  {
+    "id": 214,
+    "lesson": "Self Development",
+    "question": "What does the sound of morning birds remind you of?",
+    "options": []
+  },
+  {
+    "id": 215,
+    "lesson": "Self Development",
+    "question": "When you light a match, what positive thought sparks in your mind?",
+    "options": []
+  },
+  {
+    "id": 216,
+    "lesson": "Self Development",
+    "question": "If you were to paint an imaginary picture today, what would its subject be?",
+    "options": []
+  },
+  {
+    "id": 217,
+    "lesson": "Self Development",
+    "question": "What feeling does the sound of water flowing from the tap give you?",
+    "options": []
+  },
+  {
+    "id": 218,
+    "lesson": "Self Development",
+    "question": "If you had a short dream today, what would its subject be?",
+    "options": []
+  },
+  {
+    "id": 219,
+    "lesson": "Self Development",
+    "question": "What word does the color of the sunset create in your mind?",
+    "options": []
+  },
+  {
+    "id": 220,
+    "lesson": "Self Development",
+    "question": "When a raindrop lands on a leaf, what message does it have for you?",
+    "options": []
+  },
+  {
+    "id": 221,
+    "lesson": "Self Development",
+    "question": "When you place a piece of chocolate in your mouth, what other feeling do you have besides the taste?",
+    "options": []
+  },
+  {
+    "id": 222,
+    "lesson": "Self Development",
+    "question": "If you were a cartoon character today, what special trait would you have?",
+    "options": []
+  },
+  {
+    "id": 223,
+    "lesson": "Self Development",
+    "question": "When you hear distant footsteps, what story unfolds in your mind?",
+    "options": []
+  },
+  {
+    "id": 224,
+    "lesson": "Self Development",
+    "question": "If you had a small flashlight, what would catch your attention in the dark?",
+    "options": []
+  },
+  {
+    "id": 225,
+    "lesson": "Self Development",
+    "question": "When you touch a dry leaf, what sound do you hear beneath your fingers?",
+    "options": []
+  },
+  {
+    "id": 226,
+    "lesson": "Self Development",
+    "question": "What scent would you like to fill your room with today?",
+    "options": []
+  },
+  {
+    "id": 227,
+    "lesson": "Self Development",
+    "question": "What memory does a warm summer breeze evoke for you?",
+    "options": []
+  },
+  {
+    "id": 228,
+    "lesson": "Self Development",
+    "question": "If you had a magical stone, what would be your first wish?",
+    "options": []
+  },
+  {
+    "id": 229,
+    "lesson": "Self Development",
+    "question": "When you drink a glass of cool water, what image of freshness forms in your mind?",
+    "options": []
+  },
+  {
+    "id": 230,
+    "lesson": "Self Development",
+    "question": "What simple symbol would you draw on your palm?",
+    "options": []
+  },
+  {
+    "id": 231,
+    "lesson": "Self Development",
+    "question": "What feeling does the sound of crickets in the summer evening plant within you?",
+    "options": []
+  },
+  {
+    "id": 232,
+    "lesson": "Self Development",
+    "question": "If you held a puzzle piece in your hands, what image of yourself would it complete?",
+    "options": []
+  },
+  {
+    "id": 233,
+    "lesson": "Self Development",
+    "question": "What melody does the scent of jasmine play in your mind?",
+    "options": []
+  },
+  {
+    "id": 234,
+    "lesson": "Self Development",
+    "question": "If you could add a new word to your vocabulary, what would it be?",
+    "options": []
+  },
+  {
+    "id": 235,
+    "lesson": "Self Development",
+    "question": "When moonlight shines on your book, what word captures your attention the most?",
+    "options": []
+  },
+  {
+    "id": 236,
+    "lesson": "Self Development",
+    "question": "What memory does the touch of soft velvet awaken in you?",
+    "options": []
+  },
+  {
+    "id": 237,
+    "lesson": "Self Development",
+    "question": "When you roll a grain of sand between your fingers, what vastness of the world do you feel?",
+    "options": []
+  },
+  {
+    "id": 238,
+    "lesson": "Self Development",
+    "question": "If a sound from the past were recorded, what sound would you want it to be?",
+    "options": []
+  },
+  {
+    "id": 239,
+    "lesson": "Self Development",
+    "question": "What colors does the rustling of autumn leaves create in your mind?",
+    "options": []
+  },
+  {
+    "id": 240,
+    "lesson": "Self Development",
+    "question": "If you could choose one sound among the wind, rain, or birds, which would it be?",
+    "options": []
+  },
+  {
+    "id": 241,
+    "lesson": "Self Development",
+    "question": "What fresh feeling does a drop of fragrant essence give you?",
+    "options": []
+  },
+  {
+    "id": 242,
+    "lesson": "Self Development",
+    "question": "What island does your imaginary sunset paint in your mind?",
+    "options": []
+  },
+  {
+    "id": 243,
+    "lesson": "Self Development",
+    "question": "What name would you choose for the small fish swimming in the aquarium?",
+    "options": []
+  },
+  {
+    "id": 244,
+    "lesson": "Self Development",
+    "question": "What short message would you like to express from within you today?",
+    "options": []
+  },
+  {
+    "id": 245,
+    "lesson": "Self Development",
+    "question": "What fresh energy does the sound of waves crashing on the shore play within you?",
+    "options": []
+  },
+  {
+    "id": 246,
+    "lesson": "Self Development",
+    "question": "What special feature did the first stop of your imaginary walk have?",
+    "options": []
+  },
+  {
+    "id": 247,
+    "lesson": "Self Development",
+    "question": "When you plant a white flower in a pot, what blossom grows within you?",
+    "options": []
+  },
+  {
+    "id": 248,
+    "lesson": "Self Development",
+    "question": "If you recorded the sound of moonlight, what kind of sound would it have?",
+    "options": []
+  },
+  {
+    "id": 249,
+    "lesson": "Self Development",
+    "question": "When you light a scented candle, what dream takes flight with its smoke?",
+    "options": []
+  },
+  {
+    "id": 250,
+    "lesson": "Self Development",
+    "question": "If you painted an imaginary portrait of yourself, what details would be reflected in its eyes?",
+    "options": []
+  },
+  {
+    "id": 251,
+    "lesson": "Self Development",
+    "question": "What new feeling arises within you when light filters through the leaves?",
+    "options": []
+  },
+  {
+    "id": 252,
+    "lesson": "Self Development",
+    "question": "What sweet memory comes to mind when the smell of fresh bread fills the morning air?",
+    "options": []
+  },
+  {
+    "id": 253,
+    "lesson": "Self Development",
+    "question": "What calming image forms in your mind when you hear the sound of ocean waves?",
+    "options": []
+  },
+  {
+    "id": 254,
+    "lesson": "Self Development",
+    "question": "What word comes to your mind when a cool breeze brushes against your cheek?",
+    "options": []
+  },
+  {
+    "id": 255,
+    "lesson": "Self Development",
+    "question": "How do you feel when you hold a red flower in your hand?",
+    "options": []
+  },
+  {
+    "id": 256,
+    "lesson": "Self Development",
+    "question": "If a voice could speak within you, what voice would you choose?",
+    "options": []
+  },
+  {
+    "id": 257,
+    "lesson": "Self Development",
+    "question": "What smile appears on your face when you hear a child's laughter?",
+    "options": []
+  },
+  {
+    "id": 258,
+    "lesson": "Self Development",
+    "question": "What stages of your life do you reflect on when a leaf gently falls?",
+    "options": []
+  },
+  {
+    "id": 259,
+    "lesson": "Self Development",
+    "question": "What colors ripple in your heart when you watch a sunset?",
+    "options": []
+  },
+  {
+    "id": 260,
+    "lesson": "Self Development",
+    "question": "What sound resonates within you when you hear raindrops on the roof?",
+    "options": []
+  },
+  {
+    "id": 261,
+    "lesson": "Self Development",
+    "question": "What hope ignites in your heart when you see the moonlight?",
+    "options": []
+  },
+  {
+    "id": 262,
+    "lesson": "Self Development",
+    "question": "What spark ignites within you when you light a match?",
+    "options": []
+  },
+  {
+    "id": 263,
+    "lesson": "Self Development",
+    "question": "What memory comes to mind when you hear the sound of a bicycle bell?",
+    "options": []
+  },
+  {
+    "id": 264,
+    "lesson": "Self Development",
+    "question": "What image of tranquility does the smell of hot tea create in your mind?",
+    "options": []
+  },
+  {
+    "id": 265,
+    "lesson": "Self Development",
+    "question": "What roots do you feel within you when you touch a tree?",
+    "options": []
+  },
+  {
+    "id": 266,
+    "lesson": "Self Development",
+    "question": "What feeling of stability ignites within you when you hold a smooth stone?",
+    "options": []
+  },
+  {
+    "id": 267,
+    "lesson": "Self Development",
+    "question": "What color scheme do you find pleasing when opening a simple app?",
+    "options": []
+  },
+  {
+    "id": 268,
+    "lesson": "Self Development",
+    "question": "What sense of freshness flows through you when you lift a glass of cool water?",
+    "options": []
+  },
+  {
+    "id": 269,
+    "lesson": "Self Development",
+    "question": "What change does a beautiful word bring to your smile?",
+    "options": []
+  },
+  {
+    "id": 270,
+    "lesson": "Self Development",
+    "question": "How does listening to calming instrumental music affect your breath?",
+    "options": []
+  },
+  {
+    "id": 271,
+    "lesson": "Self Development",
+    "question": "What memory of nature does the smell of rain-soaked earth awaken in you?",
+    "options": []
+  },
+  {
+    "id": 272,
+    "lesson": "Self Development",
+    "question": "What color does seeing golden autumn leaves evoke within you?",
+    "options": []
+  },
+  {
+    "id": 273,
+    "lesson": "Self Development",
+    "question": "What peace do the sounds of crickets at night plant within you?",
+    "options": []
+  },
+  {
+    "id": 274,
+    "lesson": "Self Development",
+    "question": "What image of achieving goals forms in your mind when you hold a puzzle piece?",
+    "options": []
+  },
+  {
+    "id": 275,
+    "lesson": "Self Development",
+    "question": "What wish does seeing a small flag fluttering in the wind inspire in your heart?",
+    "options": []
+  },
+  {
+    "id": 276,
+    "lesson": "Self Development",
+    "question": "What fresh energy does hearing the crowd's cheers awaken within you?",
+    "options": []
+  },
+  {
+    "id": 277,
+    "lesson": "Self Development",
+    "question": "What wish do you whisper to yourself when lighting a candle?",
+    "options": []
+  },
+  {
+    "id": 278,
+    "lesson": "Self Development",
+    "question": "What sweet memory does a special fragrance sprout within you?",
+    "options": []
+  },
+  {
+    "id": 279,
+    "lesson": "Self Development",
+    "question": "What dreams dance in your mind when you look at a starry sky?",
+    "options": []
+  },
+  {
+    "id": 280,
+    "lesson": "Self Development",
+    "question": "What moment of joy does a tear of happiness recall from your life?",
+    "options": []
+  },
+  {
+    "id": 281,
+    "lesson": "Self Development",
+    "question": "What color does seeing a rainbow bring to life within you?",
+    "options": []
+  },
+  {
+    "id": 282,
+    "lesson": "Self Development",
+    "question": "What image of the passage of time does the crunch of leaves underfoot create in your mind?",
+    "options": []
+  },
+  {
+    "id": 283,
+    "lesson": "Self Development",
+    "question": "What patterns of yourself does touching a simple mask evoke?",
+    "options": []
+  },
+  {
+    "id": 284,
+    "lesson": "Self Development",
+    "question": "What wish do you release when blowing on a dandelion?",
+    "options": []
+  },
+  {
+    "id": 285,
+    "lesson": "Self Development",
+    "question": "What nostalgic smile does seeing an old photo bring to your face?",
+    "options": []
+  },
+  {
+    "id": 286,
+    "lesson": "Self Development",
+    "question": "What responsibility does caring for a small plant create within you?",
+    "options": []
+  },
+  {
+    "id": 287,
+    "lesson": "Self Development",
+    "question": "If your mind had a melody, what soothing tune would it be?",
+    "options": []
+  },
+  {
+    "id": 288,
+    "lesson": "Self Development",
+    "question": "What sense of freedom does watching birds dance in the sky evoke in you?",
+    "options": []
+  },
+  {
+    "id": 289,
+    "lesson": "Self Development",
+    "question": "What warmth ignites within you when you throw a stick into the fire?",
+    "options": []
+  },
+  {
+    "id": 290,
+    "lesson": "Self Development",
+    "question": "What conversation or silence do you imagine when facing an empty chair?",
+    "options": []
+  },
+  {
+    "id": 291,
+    "lesson": "Self Development",
+    "question": "What image of your future does the dance of light on the wall create?",
+    "options": []
+  },
+  {
+    "id": 292,
+    "lesson": "Self Development",
+    "question": "What ability beyond yourself does the shine of a gemstone awaken within you?",
+    "options": []
+  },
+  {
+    "id": 293,
+    "lesson": "Self Development",
+    "question": "What warm memory does the presence of friends by the fire spread in your mind?",
+    "options": []
+  },
+  {
+    "id": 294,
+    "lesson": "Self Development",
+    "question": "What scene does the light curtain reveal to you?",
+    "options": []
+  },
+  {
+    "id": 295,
+    "lesson": "Self Development",
+    "question": "What different energy flows through you when drinking cold coffee?",
+    "options": []
+  },
+  {
+    "id": 296,
+    "lesson": "Self Development",
+    "question": "What symbol does touching a small statue nurture within you?",
+    "options": []
+  },
+  {
+    "id": 297,
+    "lesson": "Self Development",
+    "question": "What fresh hope does seeing a child's wall newspaper ignite in you?",
+    "options": []
+  },
+  {
+    "id": 298,
+    "lesson": "Self Development",
+    "question": "What reminder does hearing a delightful sound awaken from within you?",
+    "options": []
+  },
+  {
+    "id": 299,
+    "lesson": "Self Development",
+    "question": "What thought does a mental carousel of ideas settle you on?",
+    "options": []
+  },
+  {
+    "id": 300,
+    "lesson": "Self Development",
+    "question": "What different role does wearing a glowing mask play in your heart?",
+    "options": []
+  },
+  {
+    "id": 301,
+    "lesson": "Self Development",
+    "question": "What corner of your dreams does holding a small city model reveal?",
+    "options": []
+  },
+  {
+    "id": 302,
+    "lesson": "Self Development",
+    "question": "What image of others forms in your mind when a wave of joy washes over you?",
+    "options": []
+  },
+  {
+    "id": 303,
+    "lesson": "Self Development",
+    "question": "What was your first sentence when writing a note to yourself?",
+    "options": []
+  },
+  {
+    "id": 304,
+    "lesson": "Self Development",
+    "question": "What height do you measure for your heart when releasing a kite into the sky?",
+    "options": []
+  },
+  {
+    "id": 305,
+    "lesson": "Self Development",
+    "question": "What details are important to you when painting a picture of the future?",
+    "options": []
+  },
+  {
+    "id": 306,
+    "lesson": "Self Development",
+    "question": "What simple solution do you find when facing the knots within you?",
+    "options": []
+  },
+  {
+    "id": 307,
+    "lesson": "Self Development",
+    "question": "What level of growth do you measure by counting the grains of sand in a jar?",
+    "options": []
+  },
+  {
+    "id": 308,
+    "lesson": "Self Development",
+    "question": "What journey within you begins when you hear the sound of an airplane's heart?",
+    "options": []
+  },
+  {
+    "id": 309,
+    "lesson": "Self Development",
+    "question": "What path does a flashlight illuminate for you in the dark?",
+    "options": []
+  },
+  {
+    "id": 310,
+    "lesson": "Self Development",
+    "question": "What smile do you give yourself in front of a small mirror?",
+    "options": []
+  },
+  {
+    "id": 311,
+    "lesson": "Self Development",
+    "question": "What combination of feelings does experimenting with colorful mixtures evoke within you?",
+    "options": []
+  },
+  {
+    "id": 312,
+    "lesson": "Self Development",
+    "question": "What aspect of yourself do you celebrate when placing a flower crown?",
+    "options": []
+  },
+  {
+    "id": 313,
+    "lesson": "Self Development",
+    "question": "What impression does spilling a bucket of paint on the ground leave on your life?",
+    "options": []
+  },
+  {
+    "id": 314,
+    "lesson": "Self Development",
+    "question": "What locks within you does holding an old iron key open?",
+    "options": []
+  },
+  {
+    "id": 315,
+    "lesson": "Self Development",
+    "question": "What darkness does moving a magical lantern illuminate?",
+    "options": []
+  },
+  {
+    "id": 316,
+    "lesson": "Self Development",
+    "question": "What first step does wearing new shoes signify for you?",
+    "options": []
+  },
+  {
+    "id": 317,
+    "lesson": "Self Development",
+    "question": "What summer memory does biting into a juicy peach bring to mind?",
+    "options": []
+  },
+  {
+    "id": 318,
+    "lesson": "Self Development",
+    "question": "What melody does rocking in a rocking chair whisper to you?",
+    "options": []
+  },
+  {
+    "id": 319,
+    "lesson": "Self Development",
+    "question": "What aroma and flavor does cooking a simple meal create in your mind?",
+    "options": []
+  },
+  {
+    "id": 320,
+    "lesson": "Self Development",
+    "question": "What piece do you consider a symbol of your success when starting a mental chess game?",
+    "options": []
+  },
+  {
+    "id": 321,
+    "lesson": "Self Development",
+    "question": "What is the first thing you strengthen in your daily reminders?",
+    "options": []
+  },
+  {
+    "id": 322,
+    "lesson": "Self Development",
+    "question": "What color do you weave into your hopes when making a beaded bracelet?",
+    "options": []
+  },
+  {
+    "id": 323,
+    "lesson": "Self Development",
+    "question": "Where is your first destination when creating a virtual travel journal?",
+    "options": []
+  },
+  {
+    "id": 324,
+    "lesson": "Self Development",
+    "question": "What feeling flows through you when playing a chord on a string instrument?",
+    "options": []
+  },
+  {
+    "id": 325,
+    "lesson": "Self Development",
+    "question": "What sense of freedom sprouts within you when wearing a straw hat?",
+    "options": []
+  },
+  {
+    "id": 326,
+    "lesson": "Self Development",
+    "question": "What is the climax of the short story you tell yourself?",
+    "options": []
+  },
+  {
+    "id": 327,
+    "lesson": "Self Development",
+    "question": "What was your first sentence in front of a blank page?",
+    "options": []
+  },
+  {
+    "id": 328,
+    "lesson": "Self Development",
+    "question": "What details catch your attention when looking at a painting on the wall?",
+    "options": []
+  },
+  {
+    "id": 329,
+    "lesson": "Self Development",
+    "question": "What word do you repeat the most when humming a gentle song?",
+    "options": []
+  },
+  {
+    "id": 330,
+    "lesson": "Self Development",
+    "question": "What wish do you send to the sky when releasing a balloon?",
+    "options": []
+  },
+  {
+    "id": 331,
+    "lesson": "Self Development",
+    "question": "What feeling of the passage of time does a falling golden leaf reflect in your mind?",
+    "options": []
+  },
+  {
+    "id": 332,
+    "lesson": "Self Development",
+    "question": "What childhood joy does touching an old toy revive within you?",
+    "options": []
+  },
+  {
+    "id": 333,
+    "lesson": "Self Development",
+    "question": "What surprise do you find inside when opening a cardboard box?",
+    "options": []
+  },
+  {
+    "id": 334,
+    "lesson": "Self Development",
+    "question": "What taste of happiness does eating a juicy orange imprint in your mind?",
+    "options": []
+  },
+  {
+    "id": 335,
+    "lesson": "Self Development",
+    "question": "What cosmic secret does stargazing reveal to you?",
+    "options": []
+  },
+  {
+    "id": 336,
+    "lesson": "Self Development",
+    "question": "What connection to the earth do you establish when touching a clay pot?",
+    "options": []
+  },
+  {
+    "id": 337,
+    "lesson": "Self Development",
+    "question": "What image of yourself do you paint in the story when reading a picture book?",
+    "options": []
+  },
+  {
+    "id": 338,
+    "lesson": "Self Development",
+    "question": "What hidden secrets does a flashlight reveal on a dark path?",
+    "options": []
+  },
+  {
+    "id": 339,
+    "lesson": "Self Development",
+    "question": "What sound rises within you when complete silence falls?",
+    "options": []
+  },
+  {
+    "id": 340,
+    "lesson": "Self Development",
+    "question": "What kindness does hugging a fabric doll awaken in your heart?",
+    "options": []
+  },
+  {
+    "id": 341,
+    "lesson": "Self Development",
+    "question": "What shores does imagining a sea voyage show you within?",
+    "options": []
+  },
+  {
+    "id": 342,
+    "lesson": "Self Development",
+    "question": "What word do you prefer most when whispering a short poem?",
+    "options": []
+  },
+  {
+    "id": 343,
+    "lesson": "Self Development",
+    "question": "What sense of freshness does smelling a mint leaf awaken in you?",
+    "options": []
+  },
+  {
+    "id": 344,
+    "lesson": "Self Development",
+    "question": "What memories does listening to piano music paint in your mind?",
+    "options": []
+  },
+  {
+    "id": 345,
+    "lesson": "Self Development",
+    "question": "What wish does the dance of sunlight ignite in your heart?",
+    "options": []
+  },
+  {
+    "id": 346,
+    "lesson": "Self Development",
+    "question": "What feeling does receiving a handwritten letter create when you read its first line?",
+    "options": []
+  },
+  {
+    "id": 347,
+    "lesson": "Self Development",
+    "question": "What is the first treasure you seek when following a fictional treasure map?",
+    "options": []
+  },
+  {
+    "id": 348,
+    "lesson": "Self Development",
+    "question": "What internal celebration does eating chocolate cake create in your mind?",
+    "options": []
+  },
+  {
+    "id": 349,
+    "lesson": "Self Development",
+    "question": "What enthusiasm does turning a sunflower towards the sun generate within you?",
+    "options": []
+  },
+  {
+    "id": 350,
+    "lesson": "Self Development",
+    "question": "What journey does releasing an inflatable boat on the water begin within you?",
+    "options": []
+  },
+  {
+    "id": 351,
+    "lesson": "Self Development",
+    "question": "Comfortable shoes or formal shoes?",
+    "options": []
+  },
+  {
+    "id": 352,
+    "lesson": "Self Development",
+    "question": "Morning walk or evening walk?",
+    "options": []
+  },
+  {
+    "id": 353,
+    "lesson": "Self Development",
+    "question": "Hot tea or cold soda?",
+    "options": []
+  },
+  {
+    "id": 354,
+    "lesson": "Self Development",
+    "question": "Printed book or e-book?",
+    "options": []
+  },
+  {
+    "id": 355,
+    "lesson": "Self Development",
+    "question": "Short film or feature film?",
+    "options": []
+  },
+  {
+    "id": 356,
+    "lesson": "Self Development",
+    "question": "Instrumental music or vocal music?",
+    "options": []
+  },
+  {
+    "id": 357,
+    "lesson": "Self Development",
+    "question": "Beach or mountains?",
+    "options": []
+  },
+  {
+    "id": 358,
+    "lesson": "Self Development",
+    "question": "Hearty breakfast or light breakfast?",
+    "options": []
+  },
+  {
+    "id": 359,
+    "lesson": "Self Development",
+    "question": "Online shopping or in-store shopping?",
+    "options": []
+  },
+  {
+    "id": 360,
+    "lesson": "Self Development",
+    "question": "Text message or voice call?",
+    "options": []
+  },
+  {
+    "id": 361,
+    "lesson": "Self Development",
+    "question": "Cooking or ordering food?",
+    "options": []
+  },
+  {
+    "id": 362,
+    "lesson": "Self Development",
+    "question": "House cat or house dog?",
+    "options": []
+  },
+  {
+    "id": 363,
+    "lesson": "Self Development",
+    "question": "Individual sports or team sports?",
+    "options": []
+  },
+  {
+    "id": 364,
+    "lesson": "Self Development",
+    "question": "Designing or writing?",
+    "options": []
+  },
+  {
+    "id": 365,
+    "lesson": "Self Development",
+    "question": "Group work or individual work?",
+    "options": []
+  },
+  {
+    "id": 366,
+    "lesson": "Self Development",
+    "question": "Sunny day or rainy day?",
+    "options": []
+  },
+  {
+    "id": 367,
+    "lesson": "Self Development",
+    "question": "Blue color or green color?",
+    "options": []
+  },
+  {
+    "id": 368,
+    "lesson": "Self Development",
+    "question": "Sweets or fruits?",
+    "options": []
+  },
+  {
+    "id": 369,
+    "lesson": "Self Development",
+    "question": "Comedy film or drama film?",
+    "options": []
+  },
+  {
+    "id": 370,
+    "lesson": "Self Development",
+    "question": "True story or fictional story?",
+    "options": []
+  },
+  {
+    "id": 371,
+    "lesson": "Self Development",
+    "question": "Waking up in the morning or staying up late?",
+    "options": []
+  },
+  {
+    "id": 372,
+    "lesson": "Self Development",
+    "question": "Collage or notebook?",
+    "options": []
+  },
+  {
+    "id": 373,
+    "lesson": "Self Development",
+    "question": "Resting on the couch or resting in a rocking chair?",
+    "options": []
+  },
+  {
+    "id": 374,
+    "lesson": "Self Development",
+    "question": "Biking or driving?",
+    "options": []
+  },
+  {
+    "id": 375,
+    "lesson": "Self Development",
+    "question": "Upbeat music or soft music?",
+    "options": []
+  },
+  {
+    "id": 376,
+    "lesson": "Self Development",
+    "question": "Quick learning or deep learning?",
+    "options": []
+  },
+  {
+    "id": 377,
+    "lesson": "Self Development",
+    "question": "Red color or orange color?",
+    "options": []
+  },
+  {
+    "id": 378,
+    "lesson": "Self Development",
+    "question": "Savory soup or sweet soup?",
+    "options": []
+  },
+  {
+    "id": 379,
+    "lesson": "Self Development",
+    "question": "Skiing or swimming?",
+    "options": []
+  },
+  {
+    "id": 380,
+    "lesson": "Self Development",
+    "question": "Meditation or breathing exercises?",
+    "options": []
+  },
+  {
+    "id": 381,
+    "lesson": "Self Development",
+    "question": "Digital painting or traditional painting?",
+    "options": []
+  },
+  {
+    "id": 382,
+    "lesson": "Self Development",
+    "question": "Short workday or long workday?",
+    "options": []
+  },
+  {
+    "id": 383,
+    "lesson": "Self Development",
+    "question": "Heavy sleeper or early riser?",
+    "options": []
+  },
+  {
+    "id": 384,
+    "lesson": "Self Development",
+    "question": "Daily planning or weekly planning?",
+    "options": []
+  },
+  {
+    "id": 385,
+    "lesson": "Self Development",
+    "question": "Working on a computer or working with pen and paper?",
+    "options": []
+  },
+  {
+    "id": 386,
+    "lesson": "Self Development",
+    "question": "First-person narrative or third-person narrative?",
+    "options": []
+  },
+  {
+    "id": 387,
+    "lesson": "Self Development",
+    "question": "Sound of rain or sound of the sea?",
+    "options": []
+  },
+  {
+    "id": 388,
+    "lesson": "Self Development",
+    "question": "Espresso coffee or Arabic coffee?",
+    "options": []
+  },
+  {
+    "id": 389,
+    "lesson": "Self Development",
+    "question": "Wearing bright colors or dark colors?",
+    "options": []
+  },
+  {
+    "id": 390,
+    "lesson": "Self Development",
+    "question": "Robot assistant or human assistant?",
+    "options": []
+  },
+  {
+    "id": 391,
+    "lesson": "Self Development",
+    "question": "Online class or in-person class?",
+    "options": []
+  },
+  {
+    "id": 392,
+    "lesson": "Self Development",
+    "question": "Learning a new language or learning a musical instrument?",
+    "options": []
+  },
+  {
+    "id": 393,
+    "lesson": "Self Development",
+    "question": "Morning sunlight or starry sky?",
+    "options": []
+  },
+  {
+    "id": 394,
+    "lesson": "Self Development",
+    "question": "Visual communication or audio communication?",
+    "options": []
+  },
+  {
+    "id": 395,
+    "lesson": "Self Development",
+    "question": "Nature walk or museum visit?",
+    "options": []
+  },
+  {
+    "id": 396,
+    "lesson": "Self Development",
+    "question": "Sending a formal email or a friendly message?",
+    "options": []
+  },
+  {
+    "id": 397,
+    "lesson": "Self Development",
+    "question": "Listening to an audiobook or reading a book?",
+    "options": []
+  },
+  {
+    "id": 398,
+    "lesson": "Self Development",
+    "question": "Staying at home or going out?",
+    "options": []
+  },
+  {
+    "id": 399,
+    "lesson": "Self Development",
+    "question": "Slow blinking or fast blinking?",
+    "options": []
+  },
+  {
+    "id": 400,
+    "lesson": "Self Development",
+    "question": "Real bouquet or paper flowers?",
+    "options": []
+  },
+  {
+    "id": 401,
+    "lesson": "Self Development",
+    "question": "Breakfast at home or at a restaurant?",
+    "options": []
+  },
+  {
+    "id": 402,
+    "lesson": "Self Development",
+    "question": "Morning exercise or evening exercise?",
+    "options": []
+  },
+  {
+    "id": 403,
+    "lesson": "Self Development",
+    "question": "Reading a physical book or a digital book?",
+    "options": []
+  },
+  {
+    "id": 404,
+    "lesson": "Self Development",
+    "question": "Horror movie or mystery movie?",
+    "options": []
+  },
+  {
+    "id": 405,
+    "lesson": "Self Development",
+    "question": "Camping in nature or staying in a hotel?",
+    "options": []
+  },
+  {
+    "id": 406,
+    "lesson": "Self Development",
+    "question": "Music with headphones or speakers?",
+    "options": []
+  },
+  {
+    "id": 407,
+    "lesson": "Self Development",
+    "question": "Urban walking or mountain trail?",
+    "options": []
+  },
+  {
+    "id": 408,
+    "lesson": "Self Development",
+    "question": "Traditional cooking or modern cuisine?",
+    "options": []
+  },
+  {
+    "id": 409,
+    "lesson": "Self Development",
+    "question": "Painting or calligraphy?",
+    "options": []
+  },
+  {
+    "id": 410,
+    "lesson": "Self Development",
+    "question": "Waking up from morning to noon or from noon to night?",
+    "options": []
+  },
+  {
+    "id": 411,
+    "lesson": "Self Development",
+    "question": "Running in the park or at the gym?",
+    "options": []
+  },
+  {
+    "id": 412,
+    "lesson": "Self Development",
+    "question": "Video game or board game?",
+    "options": []
+  },
+  {
+    "id": 413,
+    "lesson": "Self Development",
+    "question": "Learning a new language or learning an instrument?",
+    "options": []
+  },
+  {
+    "id": 414,
+    "lesson": "Self Development",
+    "question": "Green tea or fruit herbal tea?",
+    "options": []
+  },
+  {
+    "id": 415,
+    "lesson": "Self Development",
+    "question": "Working on-site or working remotely?",
+    "options": []
+  },
+  {
+    "id": 416,
+    "lesson": "Self Development",
+    "question": "Black and white design or colored design?",
+    "options": []
+  },
+  {
+    "id": 417,
+    "lesson": "Self Development",
+    "question": "Drinking water or non-carbonated soda?",
+    "options": []
+  },
+  {
+    "id": 418,
+    "lesson": "Self Development",
+    "question": "Rainy day or sunny day?",
+    "options": []
+  },
+  {
+    "id": 419,
+    "lesson": "Self Development",
+    "question": "Biking or riding an electric scooter?",
+    "options": []
+  },
+  {
+    "id": 420,
+    "lesson": "Self Development",
+    "question": "Online store or traditional market?",
+    "options": []
+  },
+  {
+    "id": 421,
+    "lesson": "Self Development",
+    "question": "Reading poetry or short stories?",
+    "options": []
+  },
+  {
+    "id": 422,
+    "lesson": "Self Development",
+    "question": "Visiting a museum or an art gallery?",
+    "options": []
+  },
+  {
+    "id": 423,
+    "lesson": "Self Development",
+    "question": "Recording audio or recording video?",
+    "options": []
+  },
+  {
+    "id": 424,
+    "lesson": "Self Development",
+    "question": "Volunteering or teaching?",
+    "options": []
+  },
+  {
+    "id": 425,
+    "lesson": "Self Development",
+    "question": "Waking up to the sound of birds or a calming melody?",
+    "options": []
+  },
+  {
+    "id": 426,
+    "lesson": "Self Development",
+    "question": "Casual clothes or formal clothes?",
+    "options": []
+  },
+  {
+    "id": 427,
+    "lesson": "Self Development",
+    "question": "Tangible gift or digital gift?",
+    "options": []
+  },
+  {
+    "id": 428,
+    "lesson": "Self Development",
+    "question": "Walking by the sea or by the river?",
+    "options": []
+  },
+  {
+    "id": 429,
+    "lesson": "Self Development",
+    "question": "Picking fresh flowers or caring for a potted plant?",
+    "options": []
+  },
+  {
+    "id": 430,
+    "lesson": "Self Development",
+    "question": "Team sports or individual sports?",
+    "options": []
+  },
+  {
+    "id": 431,
+    "lesson": "Self Development",
+    "question": "Using a paper map or GPS?",
+    "options": []
+  },
+  {
+    "id": 432,
+    "lesson": "Self Development",
+    "question": "In-person conversation or text chat?",
+    "options": []
+  },
+  {
+    "id": 433,
+    "lesson": "Self Development",
+    "question": "Watching the sunrise or sunset?",
+    "options": []
+  },
+  {
+    "id": 434,
+    "lesson": "Self Development",
+    "question": "Journaling or recording audio memories?",
+    "options": []
+  },
+  {
+    "id": 435,
+    "lesson": "Self Development",
+    "question": "Black and white photo or color photo?",
+    "options": []
+  },
+  {
+    "id": 436,
+    "lesson": "Self Development",
+    "question": "Listening to a podcast or reading an article?",
+    "options": []
+  },
+  {
+    "id": 437,
+    "lesson": "Self Development",
+    "question": "Classic clock or digital clock?",
+    "options": []
+  },
+  {
+    "id": 438,
+    "lesson": "Self Development",
+    "question": "Working with hands or using design software?",
+    "options": []
+  },
+  {
+    "id": 439,
+    "lesson": "Self Development",
+    "question": "Writing poetry or prose?",
+    "options": []
+  },
+  {
+    "id": 440,
+    "lesson": "Self Development",
+    "question": "Organized desk or cluttered desk?",
+    "options": []
+  },
+  {
+    "id": 441,
+    "lesson": "Self Development",
+    "question": "Wall painting or small frame?",
+    "options": []
+  },
+  {
+    "id": 442,
+    "lesson": "Self Development",
+    "question": "Exploring an old city or shopping in a modern mall?",
+    "options": []
+  },
+  {
+    "id": 443,
+    "lesson": "Self Development",
+    "question": "Watching a live performance or a recorded concert?",
+    "options": []
+  },
+  {
+    "id": 444,
+    "lesson": "Self Development",
+    "question": "Assembling a physical puzzle or an online puzzle?",
+    "options": []
+  },
+  {
+    "id": 445,
+    "lesson": "Self Development",
+    "question": "Short nap at noon or quick nap in the afternoon?",
+    "options": []
+  },
+  {
+    "id": 446,
+    "lesson": "Self Development",
+    "question": "Mobile game or tablet game?",
+    "options": []
+  },
+  {
+    "id": 447,
+    "lesson": "Self Development",
+    "question": "Classical music or electronic music?",
+    "options": []
+  },
+  {
+    "id": 448,
+    "lesson": "Self Development",
+    "question": "Using a mind map or a checklist?",
+    "options": []
+  },
+  {
+    "id": 449,
+    "lesson": "Self Development",
+    "question": "Walking with a friend or alone?",
+    "options": []
+  },
+  {
+    "id": 450,
+    "lesson": "Self Development",
+    "question": "Online learning or in-person workshop?",
+    "options": []
+  },
+  {
+    "id": 451,
+    "lesson": "Self Development",
+    "question": "Hot drink in winter or cold drink in summer?",
+    "options": []
+  },
+  {
+    "id": 452,
+    "lesson": "Self Development",
+    "question": "Yellow color or purple color?",
+    "options": []
+  },
+  {
+    "id": 453,
+    "lesson": "Self Development",
+    "question": "Camping by the sea or by the lake?",
+    "options": []
+  },
+  {
+    "id": 454,
+    "lesson": "Self Development",
+    "question": "Puzzle game or Sudoku?",
+    "options": []
+  },
+  {
+    "id": 455,
+    "lesson": "Self Development",
+    "question": "Buying a book or downloading an audiobook?",
+    "options": []
+  },
+  {
+    "id": 456,
+    "lesson": "Self Development",
+    "question": "Morning exercise in the sun or evening exercise under the moonlight?",
+    "options": []
+  },
+  {
+    "id": 457,
+    "lesson": "Self Development",
+    "question": "Cooking with a new recipe or your usual recipe?",
+    "options": []
+  },
+  {
+    "id": 458,
+    "lesson": "Self Development",
+    "question": "Road trip or air travel?",
+    "options": []
+  },
+  {
+    "id": 459,
+    "lesson": "Self Development",
+    "question": "Reading quickly or slowly and deeply?",
+    "options": []
+  },
+  {
+    "id": 460,
+    "lesson": "Self Development",
+    "question": "Lined notebook or note-taking app?",
+    "options": []
+  },
+  {
+    "id": 461,
+    "lesson": "Self Development",
+    "question": "Console gaming or PC gaming?",
+    "options": []
+  },
+  {
+    "id": 462,
+    "lesson": "Self Development",
+    "question": "Attending a group class or studying alone?",
+    "options": []
+  },
+  {
+    "id": 463,
+    "lesson": "Self Development",
+    "question": "Listening to nature sounds or city sounds?",
+    "options": []
+  },
+  {
+    "id": 464,
+    "lesson": "Self Development",
+    "question": "Wearing pastel colors or dark colors?",
+    "options": []
+  },
+  {
+    "id": 465,
+    "lesson": "Self Development",
+    "question": "Practicing yoga or aerobics?",
+    "options": []
+  },
+  {
+    "id": 466,
+    "lesson": "Self Development",
+    "question": "Drinking fresh juice or a smoothie?",
+    "options": []
+  },
+  {
+    "id": 467,
+    "lesson": "Self Development",
+    "question": "Learning with video or with text?",
+    "options": []
+  },
+  {
+    "id": 468,
+    "lesson": "Self Development",
+    "question": "Visiting a foreign city or a historical site at home?",
+    "options": []
+  },
+  {
+    "id": 469,
+    "lesson": "Self Development",
+    "question": "Studying in silence or with background music?",
+    "options": []
+  },
+  {
+    "id": 470,
+    "lesson": "Self Development",
+    "question": "Organizing files digitally or on paper?",
+    "options": []
+  },
+  {
+    "id": 471,
+    "lesson": "Self Development",
+    "question": "Taking a selfie or a photo of nature?",
+    "options": []
+  },
+  {
+    "id": 472,
+    "lesson": "Self Development",
+    "question": "Writing with a stylus or a regular pen?",
+    "options": []
+  },
+  {
+    "id": 473,
+    "lesson": "Self Development",
+    "question": "Working with an international team or a local team?",
+    "options": []
+  },
+  {
+    "id": 474,
+    "lesson": "Self Development",
+    "question": "Role-playing game or simulation game?",
+    "options": []
+  },
+  {
+    "id": 475,
+    "lesson": "Self Development",
+    "question": "Typing on a keyboard or voice-to-text?",
+    "options": []
+  },
+  {
+    "id": 476,
+    "lesson": "Self Development",
+    "question": "Being in a lively crowd or a quiet place?",
+    "options": []
+  },
+  {
+    "id": 477,
+    "lesson": "Self Development",
+    "question": "Picking winter fruits or summer fruits?",
+    "options": []
+  },
+  {
+    "id": 478,
+    "lesson": "Self Development",
+    "question": "Watching a live sports event or on TV?",
+    "options": []
+  },
+  {
+    "id": 479,
+    "lesson": "Self Development",
+    "question": "Watching a short series or a long series?",
+    "options": []
+  },
+  {
+    "id": 480,
+    "lesson": "Self Development",
+    "question": "Visiting a zoo or an aquarium?",
+    "options": []
+  },
+  {
+    "id": 481,
+    "lesson": "Self Development",
+    "question": "Herbal drink or espresso coffee?",
+    "options": []
+  },
+  {
+    "id": 482,
+    "lesson": "Self Development",
+    "question": "Following daily news or a specific topic?",
+    "options": []
+  },
+  {
+    "id": 483,
+    "lesson": "Self Development",
+    "question": "Participating in an art workshop or coding workshop?",
+    "options": []
+  },
+  {
+    "id": 484,
+    "lesson": "Self Development",
+    "question": "Wearing sneakers or sandals?",
+    "options": []
+  },
+  {
+    "id": 485,
+    "lesson": "Self Development",
+    "question": "Learning from a teacher or from educational videos?",
+    "options": []
+  },
+  {
+    "id": 486,
+    "lesson": "Self Development",
+    "question": "Recording memories with photos or videos?",
+    "options": []
+  },
+  {
+    "id": 487,
+    "lesson": "Self Development",
+    "question": "Digital painting with a tablet or traditional painting with a brush?",
+    "options": []
+  },
+  {
+    "id": 488,
+    "lesson": "Self Development",
+    "question": "Listening to an audio story or a discussion podcast?",
+    "options": []
+  },
+  {
+    "id": 489,
+    "lesson": "Self Development",
+    "question": "Studying in a group or individually?",
+    "options": []
+  },
+  {
+    "id": 490,
+    "lesson": "Self Development",
+    "question": "Traveling to the desert or the forest?",
+    "options": []
+  },
+  {
+    "id": 491,
+    "lesson": "Self Development",
+    "question": "Working with 4K video format or HD?",
+    "options": []
+  },
+  {
+    "id": 492,
+    "lesson": "Self Development",
+    "question": "Taking steps gradually or jumping into learning?",
+    "options": []
+  },
+  {
+    "id": 493,
+    "lesson": "Self Development",
+    "question": "Wearing a hoodie or a formal shirt?",
+    "options": []
+  },
+  {
+    "id": 494,
+    "lesson": "Self Development",
+    "question": "Sending a postal letter or a formal email?",
+    "options": []
+  },
+  {
+    "id": 495,
+    "lesson": "Self Development",
+    "question": "Playing virtual chess or real chess?",
+    "options": []
+  },
+  {
+    "id": 496,
+    "lesson": "Self Development",
+    "question": "Drinking Iranian tea or foreign tea?",
+    "options": []
+  },
+  {
+    "id": 497,
+    "lesson": "Self Development",
+    "question": "Working with ready-made modules or coding from scratch?",
+    "options": []
+  },
+  {
+    "id": 498,
+    "lesson": "Self Development",
+    "question": "Recording video vertically or horizontally?",
+    "options": []
+  },
+  {
+    "id": 499,
+    "lesson": "Self Development",
+    "question": "Listening to an audiobook while driving or walking?",
+    "options": []
+  },
+  {
+    "id": 500,
+    "lesson": "Self Development",
+    "question": "Prioritizing creativity or analysis?",
+    "options": []
+  },
+  {
+    "id": 501,
+    "lesson": "Self Development",
+    "question": "When making a decision, do you listen to your heart first or your mind?",
+    "options": []
+  },
+  {
+    "id": 502,
+    "lesson": "Self Development",
+    "question": "When facing a challenge, do you test things out first or plan before acting?",
+    "options": []
+  },
+  {
+    "id": 503,
+    "lesson": "Self Development",
+    "question": "Do you like to write down your ideas or express them out loud?",
+    "options": []
+  },
+  {
+    "id": 504,
+    "lesson": "Self Development",
+    "question": "Is learning for you like sipping fresh water or taking bitter medicine?",
+    "options": []
+  },
+  {
+    "id": 505,
+    "lesson": "Self Development",
+    "question": "Do you see the path of development as winding or straightforward?",
+    "options": []
+  },
+  {
+    "id": 506,
+    "lesson": "Self Development",
+    "question": "Do you prefer to dress formally or casually?",
+    "options": []
+  },
+  {
+    "id": 507,
+    "lesson": "Self Development",
+    "question": "Do you implement the plan first or read the instructions first?",
+    "options": []
+  },
+  {
+    "id": 508,
+    "lesson": "Self Development",
+    "question": "Do you view teamwork like an orchestra or a group of runners?",
+    "options": []
+  },
+  {
+    "id": 509,
+    "lesson": "Self Development",
+    "question": "Do you review details chapter by chapter or read the whole story at once?",
+    "options": []
+  },
+  {
+    "id": 510,
+    "lesson": "Self Development",
+    "question": "When an idea comes, do you act on it immediately or wait until it’s fully formed?",
+    "options": []
+  },
+  {
+    "id": 511,
+    "lesson": "Self Development",
+    "question": "Do you prefer your steps to be silent or accompanied by music?",
+    "options": []
+  },
+  {
+    "id": 512,
+    "lesson": "Self Development",
+    "question": "Do you see personal growth as climbing a mountain or as a flowing river?",
+    "options": []
+  },
+  {
+    "id": 513,
+    "lesson": "Self Development",
+    "question": "In problem-solving, do you use trial and error or precise algorithms?",
+    "options": []
+  },
+  {
+    "id": 514,
+    "lesson": "Self Development",
+    "question": "Do you create a prototype first or develop a conceptual framework?",
+    "options": []
+  },
+  {
+    "id": 515,
+    "lesson": "Self Development",
+    "question": "Do you prefer verbal communication or written communication?",
+    "options": []
+  },
+  {
+    "id": 516,
+    "lesson": "Self Development",
+    "question": "Do you work in complete silence or with background noise?",
+    "options": []
+  },
+  {
+    "id": 517,
+    "lesson": "Self Development",
+    "question": "To unlock your mind, do you ask open-ended questions or provide visual exercises?",
+    "options": []
+  },
+  {
+    "id": 518,
+    "lesson": "Self Development",
+    "question": "On the path to the future, are you an explorer or a navigator?",
+    "options": []
+  },
+  {
+    "id": 519,
+    "lesson": "Self Development",
+    "question": "Do you prefer your work steps to be clear or creative and flexible?",
+    "options": []
+  },
+  {
+    "id": 520,
+    "lesson": "Self Development",
+    "question": "Do you want to know everything before moving or explore as you go?",
+    "options": []
+  },
+  {
+    "id": 521,
+    "lesson": "Self Development",
+    "question": "Do you write your notes on paper or record them using a mobile app?",
+    "options": []
+  },
+  {
+    "id": 522,
+    "lesson": "Self Development",
+    "question": "When facing a problem, do you try a quick fix first or a sustainable solution?",
+    "options": []
+  },
+  {
+    "id": 523,
+    "lesson": "Self Development",
+    "question": "Do you see principled work like architecture or like watercolor painting?",
+    "options": []
+  },
+  {
+    "id": 524,
+    "lesson": "Self Development",
+    "question": "Do you prefer long-term planning or immediate results?",
+    "options": []
+  },
+  {
+    "id": 525,
+    "lesson": "Self Development",
+    "question": "In creation, do you maintain a steady rhythm or change your pace?",
+    "options": []
+  },
+  {
+    "id": 526,
+    "lesson": "Self Development",
+    "question": "Do you seek feedback immediately or after finishing the work?",
+    "options": []
+  },
+  {
+    "id": 527,
+    "lesson": "Self Development",
+    "question": "For tasks, do you create a long checklist or use a digital reminder?",
+    "options": []
+  },
+  {
+    "id": 528,
+    "lesson": "Self Development",
+    "question": "Do you send your message to the audience verbally or visually?",
+    "options": []
+  },
+  {
+    "id": 529,
+    "lesson": "Self Development",
+    "question": "Would you rather be in a peaceful garden or a bustling city?",
+    "options": []
+  },
+  {
+    "id": 530,
+    "lesson": "Self Development",
+    "question": "Do you prefer working on a long-term project or several short ones?",
+    "options": []
+  },
+  {
+    "id": 531,
+    "lesson": "Self Development",
+    "question": "Is individual productivity more important to you or team productivity?",
+    "options": []
+  },
+  {
+    "id": 532,
+    "lesson": "Self Development",
+    "question": "Do you prefer visual learning or auditory learning?",
+    "options": []
+  },
+  {
+    "id": 533,
+    "lesson": "Self Development",
+    "question": "Do you like ranking things or having comparative analysis?",
+    "options": []
+  },
+  {
+    "id": 534,
+    "lesson": "Self Development",
+    "question": "Do you start work from scratch or build on previous experiences?",
+    "options": []
+  },
+  {
+    "id": 535,
+    "lesson": "Self Development",
+    "question": "When in doubt, do you choose a book or the internet?",
+    "options": []
+  },
+  {
+    "id": 536,
+    "lesson": "Self Development",
+    "question": "Do you prefer continuous creation or staying in one place?",
+    "options": []
+  },
+  {
+    "id": 537,
+    "lesson": "Self Development",
+    "question": "Do you work better in a quiet environment or a busy space?",
+    "options": []
+  },
+  {
+    "id": 538,
+    "lesson": "Self Development",
+    "question": "Do you like immediate feedback or gradual feedback?",
+    "options": []
+  },
+  {
+    "id": 539,
+    "lesson": "Self Development",
+    "question": "In personal activities, do you prefer skill or timing?",
+    "options": []
+  },
+  {
+    "id": 540,
+    "lesson": "Self Development",
+    "question": "Do you see personal development more as a garden or a river?",
+    "options": []
+  },
+  {
+    "id": 541,
+    "lesson": "Self Development",
+    "question": "Do you build projects step by step or complete them all at once?",
+    "options": []
+  },
+  {
+    "id": 542,
+    "lesson": "Self Development",
+    "question": "Do you feel like a better leader or a supporter?",
+    "options": []
+  },
+  {
+    "id": 543,
+    "lesson": "Self Development",
+    "question": "Do you prefer big ideas or small details?",
+    "options": []
+  },
+  {
+    "id": 544,
+    "lesson": "Self Development",
+    "question": "For your path, do you use a mind map or a timeline?",
+    "options": []
+  },
+  {
+    "id": 545,
+    "lesson": "Self Development",
+    "question": "In learning, do you ask open-ended questions or practice hands-on?",
+    "options": []
+  },
+  {
+    "id": 546,
+    "lesson": "Self Development",
+    "question": "Do you want your projects to be colorful or monochrome?",
+    "options": []
+  },
+  {
+    "id": 547,
+    "lesson": "Self Development",
+    "question": "In your goals, is the speed of growth more important or sustainability?",
+    "options": []
+  },
+  {
+    "id": 548,
+    "lesson": "Self Development",
+    "question": "Do you want your audience to understand your thinking or your product?",
+    "options": []
+  },
+  {
+    "id": 549,
+    "lesson": "Self Development",
+    "question": "For stress management, do you meditate or exercise?",
+    "options": []
+  },
+  {
+    "id": 550,
+    "lesson": "Self Development",
+    "question": "Do you prefer to recharge your energy with music or in silence?",
+    "options": []
+  },
+  {
+    "id": 551,
+    "lesson": "Self Development",
+    "question": "When facing a problem, do you consult others first or make your own decision?",
+    "options": []
+  },
+  {
+    "id": 552,
+    "lesson": "Self Development",
+    "question": "Do you set goals weekly or monthly?",
+    "options": []
+  },
+  {
+    "id": 553,
+    "lesson": "Self Development",
+    "question": "For communication, do you choose text chat or voice calls?",
+    "options": []
+  },
+  {
+    "id": 554,
+    "lesson": "Self Development",
+    "question": "Do you prefer short daily readings or long sessions?",
+    "options": []
+  },
+  {
+    "id": 555,
+    "lesson": "Self Development",
+    "question": "For note-taking, do you use margin notes or tables?",
+    "options": []
+  },
+  {
+    "id": 556,
+    "lesson": "Self Development",
+    "question": "Do you prefer quick prototyping or detailed preparation?",
+    "options": []
+  },
+  {
+    "id": 557,
+    "lesson": "Self Development",
+    "question": "At the end of the day, do you review your to-do list or summarize your project?",
+    "options": []
+  },
+  {
+    "id": 558,
+    "lesson": "Self Development",
+    "question": "For inspiration, do you go to nature or enjoy endless nights?",
+    "options": []
+  },
+  {
+    "id": 559,
+    "lesson": "Self Development",
+    "question": "When solving a problem, do you prefer to make analogies first or analyze the roots?",
+    "options": []
+  },
+  {
+    "id": 560,
+    "lesson": "Self Development",
+    "question": "When writing down an idea, do you write from your feelings or logically?",
+    "options": []
+  },
+  {
+    "id": 561,
+    "lesson": "Self Development",
+    "question": "Do you prefer high-quality output or high volume?",
+    "options": []
+  },
+  {
+    "id": 562,
+    "lesson": "Self Development",
+    "question": "Do you start your project with new people or a stable group?",
+    "options": []
+  },
+  {
+    "id": 563,
+    "lesson": "Self Development",
+    "question": "When facing an error, do you report it first or fix it quickly?",
+    "options": []
+  },
+  {
+    "id": 564,
+    "lesson": "Self Development",
+    "question": "To assess progress, do you draw a chart or check off a list?",
+    "options": []
+  },
+  {
+    "id": 565,
+    "lesson": "Self Development",
+    "question": "Do you enjoy learning a new skill or improving an existing one?",
+    "options": []
+  },
+  {
+    "id": 566,
+    "lesson": "Self Development",
+    "question": "Do you make decisions quickly or after deep reflection?",
+    "options": []
+  },
+  {
+    "id": 567,
+    "lesson": "Self Development",
+    "question": "To boost creativity, do you rest first or study?",
+    "options": []
+  },
+  {
+    "id": 568,
+    "lesson": "Self Development",
+    "question": "Do you enjoy interacting with users or focusing on development?",
+    "options": []
+  },
+  {
+    "id": 569,
+    "lesson": "Self Development",
+    "question": "Do you prefer user experience design or focusing on technical performance?",
+    "options": []
+  },
+  {
+    "id": 570,
+    "lesson": "Self Development",
+    "question": "Do you find online documentation more appealing or paper-based?",
+    "options": []
+  },
+  {
+    "id": 571,
+    "lesson": "Self Development",
+    "question": "Do you like interdisciplinary innovation or specialized fields?",
+    "options": []
+  },
+  {
+    "id": 572,
+    "lesson": "Self Development",
+    "question": "Do you prefer participating in open-source projects or internal projects?",
+    "options": []
+  },
+  {
+    "id": 573,
+    "lesson": "Self Development",
+    "question": "Do you prefer technical volunteer work or artistic volunteer work?",
+    "options": []
+  },
+  {
+    "id": 574,
+    "lesson": "Self Development",
+    "question": "Do you enjoy face-to-face meetings or online workshops?",
+    "options": []
+  },
+  {
+    "id": 575,
+    "lesson": "Self Development",
+    "question": "Do you review specialized books or watch educational videos?",
+    "options": []
+  },
+  {
+    "id": 576,
+    "lesson": "Self Development",
+    "question": "For organizing files, do you create drive folders or use management apps?",
+    "options": []
+  },
+  {
+    "id": 577,
+    "lesson": "Self Development",
+    "question": "Do you prefer podcasts or educational videos?",
+    "options": []
+  },
+  {
+    "id": 578,
+    "lesson": "Self Development",
+    "question": "Do you prefer direct feedback or anonymous feedback?",
+    "options": []
+  },
+  {
+    "id": 579,
+    "lesson": "Self Development",
+    "question": "Would you rather have your projects be flexible or structured?",
+    "options": []
+  },
+  {
+    "id": 580,
+    "lesson": "Self Development",
+    "question": "In a team, do you prefer a leadership role or a supportive role?",
+    "options": []
+  },
+  {
+    "id": 581,
+    "lesson": "Self Development",
+    "question": "For focus, is writing in a notebook calming or listening to ambient sounds?",
+    "options": []
+  },
+  {
+    "id": 582,
+    "lesson": "Self Development",
+    "question": "Do you analyze customer experiences or sales statistics?",
+    "options": []
+  },
+  {
+    "id": 583,
+    "lesson": "Self Development",
+    "question": "Do you prefer logo design or a brand book?",
+    "options": []
+  },
+  {
+    "id": 584,
+    "lesson": "Self Development",
+    "question": "Do you like detailed line-by-line documentation or general summaries?",
+    "options": []
+  },
+  {
+    "id": 585,
+    "lesson": "Self Development",
+    "question": "Do you prefer product quality testing or report preparation?",
+    "options": []
+  },
+  {
+    "id": 586,
+    "lesson": "Self Development",
+    "question": "Do you prefer working on-site or remotely?",
+    "options": []
+  },
+  {
+    "id": 587,
+    "lesson": "Self Development",
+    "question": "Do you enjoy interacting with strangers or focusing on familiar people?",
+    "options": []
+  },
+  {
+    "id": 588,
+    "lesson": "Self Development",
+    "question": "Do you prefer live presentations or recorded ones for upload?",
+    "options": []
+  },
+  {
+    "id": 589,
+    "lesson": "Self Development",
+    "question": "Do you prefer web development or mobile development?",
+    "options": []
+  },
+  {
+    "id": 590,
+    "lesson": "Self Development",
+    "question": "Do you find fixing tough bugs more satisfying or adding new features?",
+    "options": []
+  },
+  {
+    "id": 591,
+    "lesson": "Self Development",
+    "question": "Do you enjoy creating visual content or written content?",
+    "options": []
+  },
+  {
+    "id": 592,
+    "lesson": "Self Development",
+    "question": "Do you prefer working on a new product or optimizing an old one?",
+    "options": []
+  },
+  {
+    "id": 593,
+    "lesson": "Self Development",
+    "question": "Do you like user testing or market analysis?",
+    "options": []
+  },
+  {
+    "id": 594,
+    "lesson": "Self Development",
+    "question": "Do you prefer branding or performance marketing?",
+    "options": []
+  },
+  {
+    "id": 595,
+    "lesson": "Self Development",
+    "question": "Would you rather attend a specialized conference or a hands-on workshop?",
+    "options": []
+  },
+  {
+    "id": 596,
+    "lesson": "Self Development",
+    "question": "Do you prefer sharing on social media or writing a blog?",
+    "options": []
+  },
+  {
+    "id": 597,
+    "lesson": "Self Development",
+    "question": "Do you prefer live recording or creating edited videos?",
+    "options": []
+  },
+  {
+    "id": 598,
+    "lesson": "Self Development",
+    "question": "Do you prefer scientific research or applied research?",
+    "options": []
+  },
+  {
+    "id": 599,
+    "lesson": "Self Development",
+    "question": "Do you enjoy creating educational courses or producing experiential documentaries?",
+    "options": []
+  },
+  {
+    "id": 600,
+    "lesson": "Self Development",
+    "question": "Do you prefer your project to flow like a calm river or rush like a wave?",
+    "options": []
+  }
+]
