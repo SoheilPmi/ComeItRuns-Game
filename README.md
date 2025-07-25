@@ -119,12 +119,53 @@ Come It Runs is where action meets deep learning. Here, you don’t just wield w
 
 ---
 
-## 👩‍💻 The Development Team
-Come It Runs is designed and implemented by:
-- **Soheil Pourmokhtari** - Lead Developer (3D Graphics and AI + Artificial intelligence)
-- **Sepehr Pourmokhtari** - UX/UI Designer and Personal Growth Mentor
+## 👷‍♂️ Meet the Creators Behind *Come It Runs*
 
-With over 5 years of experience in educational game design and learning psychology research, they ensure that this game is both fun and practical.
+### 🎮 سهیل پورمختاری (Soheil Pourmokhtari)  
+**Role:** Lead Developer & Game Designer  
+- Gameplay programming and scripting  
+- Environment design and texturing  
+- Story writing and narrative structure  
+- Marketing and community outreach  
+- Visionary behind the concept of “growth through play”
+
+💡 *“Every line of code is a step toward helping someone discover themselves.”*
+
+---
+
+### 🎼 سپهر پورمختاری (Sepehr Pourmokhtari)  
+**Role:** Composer & Aesthetic Designer  
+- Music composition and sound design  
+- Environmental ambiance and mood setting  
+- Artistic direction for emotional resonance
+
+🎧 *“Each note is crafted to elevate the soul and deepen the journey.”*
+
+---
+
+### 🎨 کیارش ابراهیمی (Kiarash Ebrahimi)  
+**Role:** UI/UX Designer & Visual Editor  
+- Interface design and animation  
+- Graphic editing and VFX  
+- Video montage and promotional visuals  
+- Currently learning Blender (as of 1403/01/14)
+
+🖌️ *“Design isn’t decoration — it’s how players feel their way through the world.”*
+
+---
+
+### 🎵 سهراب پورمحمدرضا (Sohrab Pourmohammadreza)  
+**Role:** Music Producer  
+- Epic, deep house, electronic, and pop soundtracks  
+- Emotional layering through music  
+- Dynamic audio for gameplay intensity
+
+---
+
+## 💫 Why This Team Matters
+
+Together, they’ve built more than a game — they’ve created a journey.  
+Their mission is to help people grow, reflect, and connect through a digital experience that feels deeply human.
 
 ---
 
