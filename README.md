@@ -61,3 +61,101 @@ With over 5 years of experience in educational game design and learning psycholo
 Try the demo today, ⭐ rate us, and join us to get closer to discovering your personal mission and inner strength with every update!
 
 **Come It Runs** – Where real growth meets the excitement of gaming.
+
+
+
+
+---
+---
+---
+
+حتماً! اینم یک متن حرفه‌ای، سئو‌شده، قابل فهم و جذاب برای صفحه گیت‌هاب پروژه‌ی Come It Runs، بر اساس سندی که فرستادی. این متن به‌طور خاص برای سه گروه هدف نوشته شده:  
+۱. جوانان ۱۷ تا ۳۰ ساله  
+۲. والدینی که به دنبال بازی‌های سازنده برای فرزندانشان هستند  
+۳. افرادی که در مسیر خودشناسی و کشف رسالت شخصی هستند  
+
+---
+
+### 🎮 What Is Come It Runs?
+
+Come It Runs is not just a game — it’s a journey of growth, discovery, and purpose.  
+Designed for players aged 17 to 30, as well as parents seeking meaningful games for their children, and anyone on a path of self-development, this game blends entertainment with deep personal insight.
+
+---
+
+🌱 Core Values & Benefits
+
+🧠 1. Self-Discovery Through Gameplay
+Players answer reflective questions, solve puzzles, and engage with educational cards that help them explore:
+- Who they are
+- What motivates them
+- What their personal mission might be
+
+💡 Example: Instead of just leveling up by defeating enemies, players gain XP by solving logic puzzles and answering questions like:  
+> “What gives your life meaning?”  
+> “How do you handle fear or uncertainty?”
+
+---
+
+🎓 2. Educational Growth Without Feeling Like School
+The game includes:
+- Math puzzles (from basic to advanced)
+- Logic challenges
+- Visual memory and focus exercises
+
+📈 These are designed to improve:
+- Short-term and long-term memory  
+- Problem-solving skills  
+- Mental agility under pressure
+
+💡 Real-world parallel: Like Duolingo teaches language through gamification, Come It Runs teaches life skills through immersive gameplay.
+
+---
+
+👨‍👩‍👧 3. For Parents: A Game That Builds Character
+Unlike typical mobile games that only entertain, Come It Runs helps children:
+- Develop emotional intelligence  
+- Strengthen focus and discipline  
+- Learn values like patience, effort, and reflection
+
+🧒 Imagine: Your child plays a game where they earn rewards not just by tapping fast, but by thinking deeply and writing down what they’ve learned.
+
+---
+
+🔍 4. For Seekers of Purpose
+This game is ideal for those asking:
+- “What is my mission in life?”  
+- “How can I grow while having fun?”
+
+Through AI-powered analysis of player responses, the game builds a personal growth chart — showing how your mindset evolves over time.
+
+📊 Example: After answering 50+ self-reflection questions, players receive a visual graph of their emotional and cognitive development.
+
+---
+
+💬 5. Social & Multiplayer Features
+- Share progress with friends  
+- Collaborate in exploration missions  
+- Trade in-game currency and support each other’s growth
+
+🌐 Think: A multiplayer experience where instead of just shooting, you’re solving puzzles together and unlocking deeper layers of the story.
+
+---
+
+🛠️ Technical Highlights
+- Built in Unity  
+- Supports Photon PUN for multiplayer  
+- AI-enhanced card system  
+- Procedural story generation  
+- Customizable character and base  
+- Secure save/load system with anti-cheat protection
+
+---
+
+🧩 Why It Matters
+
+In a world full of distractions, Come It Runs offers a meaningful alternative — a game that entertains and elevates.  
+Whether you're a teen navigating identity, a parent guiding your child, or a seeker of truth, this game is built for you.
+
+---
+---
