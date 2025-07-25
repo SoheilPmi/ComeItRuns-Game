@@ -2,6 +2,12 @@
 
 *Unlock personal growth, sharpen cognition, and build stronger communities — one puzzle, one question, one mission at a time.* 🎯
 
+## 🎥 Watch the Game in Action
+
+Explore behind-the-scenes development, gameplay features, and creative insights from the *Come It Runs* project on YouTube:
+
+🔗 [ComeItRuns 💫 : Game Project – YouTube Playlist](https://youtube.com/playlist?list=PLlH70ykNe7TO-OWHbNEWS_l3DwAmNEipG&si=CjTBEngIQBfx9EpI)
+
 ---
 
 ## 🌍 Overview
