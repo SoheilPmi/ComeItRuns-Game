@@ -76,7 +76,7 @@ Designed for players aged 17 to 30, as well as parents seeking meaningful games 
 
 ---
 
-🌱 Core Values & Benefits
+# 🌱 Core Values & Benefits
 
 🧠 1. Self-Discovery Through Gameplay
 Players answer reflective questions, solve puzzles, and engage with educational cards that help them explore:
@@ -90,7 +90,7 @@ Players answer reflective questions, solve puzzles, and engage with educational 
 
 ---
 
-🎓 2. Educational Growth Without Feeling Like School
+# 🎓 2. Educational Growth Without Feeling Like School
 The game includes:
 - Math puzzles (from basic to advanced)
 - Logic challenges
@@ -105,7 +105,7 @@ The game includes:
 
 ---
 
-👨‍👩‍👧 3. For Parents: A Game That Builds Character
+# 👨‍👩‍👧 3. For Parents: A Game That Builds Character
 Unlike typical mobile games that only entertain, Come It Runs helps children:
 - Develop emotional intelligence  
 - Strengthen focus and discipline  
@@ -115,7 +115,7 @@ Unlike typical mobile games that only entertain, Come It Runs helps children:
 
 ---
 
-🔍 4. For Seekers of Purpose
+# 🔍 4. For Seekers of Purpose
 This game is ideal for those asking:
 - “What is my mission in life?”  
 - “How can I grow while having fun?”
@@ -126,7 +126,7 @@ Through AI-powered analysis of player responses, the game builds a personal grow
 
 ---
 
-💬 5. Social & Multiplayer Features
+# 💬 5. Social & Multiplayer Features
 - Share progress with friends  
 - Collaborate in exploration missions  
 - Trade in-game currency and support each other’s growth
@@ -135,7 +135,7 @@ Through AI-powered analysis of player responses, the game builds a personal grow
 
 ---
 
-🛠️ Technical Highlights
+# 🛠️ Technical Highlights
 - Built in Unity  
 - Supports Photon PUN for multiplayer  
 - AI-enhanced card system  
@@ -144,6 +144,10 @@ Through AI-powered analysis of player responses, the game builds a personal grow
 - Secure save/load system with anti-cheat protection
 
 ---
+
+
+
+
 
 🧩 Why It Matters
 
