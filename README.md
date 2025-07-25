@@ -148,7 +148,6 @@ Come It Runs is where action meets deep learning. Here, you don’t just wield w
 - Interface design and animation  
 - Graphic editing and VFX  
 - Video montage and promotional visuals  
-- Currently learning Blender (as of 1403/01/14)
 
 🖌️ *“Design isn’t decoration — it’s how players feel their way through the world.”*
 
